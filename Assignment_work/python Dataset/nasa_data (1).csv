@@ -1,0 +1,1001 @@
+nametype,reclat,name,fall,recclass,id,geolocation,year,:@computed_region_cbhk_fwbd,mass,:@computed_region_nnqa_25f4,reclong
+Valid,50.775000,Aachen,Fell,L5,1,"{'type': 'Point', 'coordinates': [6.08333, 50.775]}",1880-01-01T00:00:00.000,,21,,6.083330
+Valid,56.183330,Aarhus,Fell,H6,2,"{'type': 'Point', 'coordinates': [10.23333, 56.18333]}",1951-01-01T00:00:00.000,,720,,10.233330
+Valid,54.216670,Abee,Fell,EH4,6,"{'type': 'Point', 'coordinates': [-113, 54.21667]}",1952-01-01T00:00:00.000,,107000,,-113.000000
+Valid,16.883330,Acapulco,Fell,Acapulcoite,10,"{'type': 'Point', 'coordinates': [-99.9, 16.88333]}",1976-01-01T00:00:00.000,,1914,,-99.900000
+Valid,-33.166670,Achiras,Fell,L6,370,"{'type': 'Point', 'coordinates': [-64.95, -33.16667]}",1902-01-01T00:00:00.000,,780,,-64.950000
+Valid,32.100000,Adhi Kot,Fell,EH4,379,"{'type': 'Point', 'coordinates': [71.8, 32.1]}",1919-01-01T00:00:00.000,,4239,,71.800000
+Valid,44.833330,Adzhi-Bogdo (stone),Fell,LL3-6,390,"{'type': 'Point', 'coordinates': [95.16667, 44.83333]}",1949-01-01T00:00:00.000,,910,,95.166670
+Valid,44.216670,Agen,Fell,H5,392,"{'type': 'Point', 'coordinates': [0.61667, 44.21667]}",1814-01-01T00:00:00.000,,30000,,0.616670
+Valid,-31.600000,Aguada,Fell,L6,398,"{'type': 'Point', 'coordinates': [-65.23333, -31.6]}",1930-01-01T00:00:00.000,,1620,,-65.233330
+Valid,-30.866670,Aguila Blanca,Fell,L,417,"{'type': 'Point', 'coordinates': [-64.55, -30.86667]}",1920-01-01T00:00:00.000,,1440,,-64.550000
+Valid,16.398060,Aioun el Atrouss,Fell,Diogenite-pm,423,"{'type': 'Point', 'coordinates': [-9.57028, 16.39806]}",1974-01-01T00:00:00.000,,1000,,-9.570280
+Valid,19.083330,Aïr,Fell,L6,424,"{'type': 'Point', 'coordinates': [8.38333, 19.08333]}",1925-01-01T00:00:00.000,,24000,,8.383330
+Valid,50.666670,Aire-sur-la-Lys,Fell,Unknown,425,"{'type': 'Point', 'coordinates': [2.33333, 50.66667]}",1769-01-01T00:00:00.000,,,,2.333330
+Valid,29.516670,Akaba,Fell,L6,426,"{'type': 'Point', 'coordinates': [35.05, 29.51667]}",1949-01-01T00:00:00.000,,779,,35.050000
+Valid,29.716670,Akbarpur,Fell,H4,427,"{'type': 'Point', 'coordinates': [77.95, 29.71667]}",1838-01-01T00:00:00.000,,1800,,77.950000
+Valid,8.916670,Akwanga,Fell,H,432,"{'type': 'Point', 'coordinates': [8.43333, 8.91667]}",1959-01-01T00:00:00.000,,3000,,8.433330
+Valid,39.916670,Akyumak,Fell,"Iron, IVA",433,"{'type': 'Point', 'coordinates': [42.81667, 39.91667]}",1981-01-01T00:00:00.000,,50000,,42.816670
+Valid,24.416670,Al Rais,Fell,CR2-an,446,"{'type': 'Point', 'coordinates': [39.51667, 24.41667]}",1957-01-01T00:00:00.000,,160,,39.516670
+Valid,13.660330,Al Zarnkh,Fell,LL5,447,"{'type': 'Point', 'coordinates': [28.96, 13.66033]}",2001-01-01T00:00:00.000,,700,,28.960000
+Valid,44.116670,Alais,Fell,CI1,448,"{'type': 'Point', 'coordinates': [4.08333, 44.11667]}",1806-01-01T00:00:00.000,,6000,,4.083330
+Valid,44.650000,Albareto,Fell,L/LL4,453,"{'type': 'Point', 'coordinates': [11.01667, 44.65]}",1766-01-01T00:00:00.000,,2000,,11.016670
+Valid,2.000000,Alberta,Fell,L,454,"{'type': 'Point', 'coordinates': [22.66667, 2]}",1949-01-01T00:00:00.000,,625,,22.666670
+Valid,45.821330,Alby sur Chéran,Fell,Eucrite-mmict,458,"{'type': 'Point', 'coordinates': [6.01533, 45.82133]}",2002-01-01T00:00:00.000,,252,,6.015330
+Valid,51.783330,Aldsworth,Fell,LL5,461,"{'type': 'Point', 'coordinates': [-1.78333, 51.78333]}",1835-01-01T00:00:00.000,,700,,-1.783330
+Valid,36.233330,Aleppo,Fell,L6,462,"{'type': 'Point', 'coordinates': [37.13333, 36.23333]}",1873-01-01T00:00:00.000,,3200,,37.133330
+Valid,44.883330,Alessandria,Fell,H5,463,"{'type': 'Point', 'coordinates': [8.75, 44.88333]}",1860-01-01T00:00:00.000,,908,,8.750000
+Valid,50.950000,Alexandrovsky,Fell,H4,465,"{'type': 'Point', 'coordinates': [31.81667, 50.95]}",1900-01-01T00:00:00.000,,9251,,31.816670
+Valid,45.266670,Alfianello,Fell,L6,466,"{'type': 'Point', 'coordinates': [10.15, 45.26667]}",1883-01-01T00:00:00.000,,228000,,10.150000
+Valid,42.533330,Allegan,Fell,H5,2276,"{'type': 'Point', 'coordinates': [-85.88333, 42.53333]}",1899-01-01T00:00:00.000,50,32000,429,-85.883330
+Valid,26.966670,Allende,Fell,CV3,2278,"{'type': 'Point', 'coordinates': [-105.31667, 26.96667]}",1969-01-01T00:00:00.000,,2000000,,-105.316670
+Valid,20.745750,Almahata Sitta,Fell,Ureilite-an,48915,"{'type': 'Point', 'coordinates': [32.41275, 20.74575]}",2008-01-01T00:00:00.000,,3950,,32.412750
+Valid,35.273330,Alta'ameem,Fell,LL5,2284,"{'type': 'Point', 'coordinates': [44.21556, 35.27333]}",1977-01-01T00:00:00.000,,6000,,44.215560
+Valid,27.666670,Ambapur Nagla,Fell,H5,2290,"{'type': 'Point', 'coordinates': [78.25, 27.66667]}",1895-01-01T00:00:00.000,,6400,,78.250000
+Valid,26.583330,Andhara,Fell,Stone-uncl,2294,"{'type': 'Point', 'coordinates': [85.56667, 26.58333]}",1880-01-01T00:00:00.000,,2700,,85.566670
+Valid,44.616670,Andover,Fell,L6,2295,"{'type': 'Point', 'coordinates': [-70.75, 44.61667]}",1898-01-01T00:00:00.000,49,3200,1723,-70.750000
+Valid,48.700000,Andreevka,Fell,L3,2296,"{'type': 'Point', 'coordinates': [37.5, 48.7]}",1969-01-01T00:00:00.000,,600,,37.500000
+Valid,20.883330,Andura,Fell,H6,2298,"{'type': 'Point', 'coordinates': [76.86667, 20.88333]}",1939-01-01T00:00:00.000,,17900,,76.866670
+Valid,0.000000,Northwest Africa 5815,Found,L5,50693,"{'type': 'Point', 'coordinates': [0, 0]}",,,256.8,,0.000000
+Valid,47.466670,Angers,Fell,L6,2301,"{'type': 'Point', 'coordinates': [-0.55, 47.46667]}",1822-01-01T00:00:00.000,,,,-0.550000
+Valid,-22.966670,Angra dos Reis (stone),Fell,Angrite,2302,"{'type': 'Point', 'coordinates': [-44.31667, -22.96667]}",1869-01-01T00:00:00.000,,1500,,-44.316670
+Valid,9.533330,Ankober,Fell,H4,2304,"{'type': 'Point', 'coordinates': [39.71667, 9.53333]}",1942-01-01T00:00:00.000,,6500,,39.716670
+Valid,25.150000,Anlong,Fell,H5,2305,"{'type': 'Point', 'coordinates': [105.18333, 25.15]}",1971-01-01T00:00:00.000,,2500,,105.183330
+Valid,40.810560,Aomori,Fell,L6,2313,"{'type': 'Point', 'coordinates': [140.78556, 40.81056]}",1984-01-01T00:00:00.000,,320,,140.785560
+Valid,53.583330,Appley Bridge,Fell,LL6,2318,"{'type': 'Point', 'coordinates': [-2.71667, 53.58333]}",1914-01-01T00:00:00.000,,15000,,-2.716670
+Valid,43.866670,Apt,Fell,L6,2320,"{'type': 'Point', 'coordinates': [5.38333, 43.86667]}",1803-01-01T00:00:00.000,,3200,,5.383330
+Valid,-33.000000,Arbol Solo,Fell,H5,2325,"{'type': 'Point', 'coordinates': [-66, -33]}",1954-01-01T00:00:00.000,,810,,-66.000000
+Valid,38.500000,Archie,Fell,H6,2329,"{'type': 'Point', 'coordinates': [-94.3, 38.5]}",1932-01-01T00:00:00.000,18,5070,2697,-94.300000
+Valid,-31.416670,Arroyo Aguiar,Fell,H5,2340,"{'type': 'Point', 'coordinates': [-60.66667, -31.41667]}",1950-01-01T00:00:00.000,,7450,,-60.666670
+Valid,42.450000,Asco,Fell,H6,2345,"{'type': 'Point', 'coordinates': [9.03333, 42.45]}",1805-01-01T00:00:00.000,,41,,9.033330
+Valid,31.805000,Ash Creek,Fell,L6,48954,"{'type': 'Point', 'coordinates': [-97.01, 31.805]}",2009-01-01T00:00:00.000,23,9500,774,-97.010000
+Valid,52.050000,Ashdon,Fell,L6,2346,"{'type': 'Point', 'coordinates': [0.3, 52.05]}",1923-01-01T00:00:00.000,,1300,,0.300000
+Valid,43.033330,Assisi,Fell,H5,2353,"{'type': 'Point', 'coordinates': [12.55, 43.03333]}",1886-01-01T00:00:00.000,,2000,,12.550000
+Valid,25.254170,Atarra,Fell,L4,4883,"{'type': 'Point', 'coordinates': [80.625, 25.25417]}",1920-01-01T00:00:00.000,,1280,,80.625000
+Valid,20.066670,Atemajac,Fell,L6,4884,"{'type': 'Point', 'coordinates': [-103.66667, 20.06667]}",1896-01-01T00:00:00.000,,94.2,,-103.666670
+Valid,34.750000,Athens,Fell,LL6,4885,"{'type': 'Point', 'coordinates': [-87, 34.75]}",1933-01-01T00:00:00.000,29,265,3134,-87.000000
+Valid,34.316670,Atoka,Fell,L6,4888,"{'type': 'Point', 'coordinates': [-96.15, 34.31667]}",1945-01-01T00:00:00.000,20,1384.2,602,-96.150000
+Valid,44.383330,Aubres,Fell,Aubrite,4893,"{'type': 'Point', 'coordinates': [5.16667, 44.38333]}",1836-01-01T00:00:00.000,,800,,5.166670
+Valid,36.166670,Aumale,Fell,L6,4899,"{'type': 'Point', 'coordinates': [3.66667, 36.16667]}",1865-01-01T00:00:00.000,,50000,,3.666670
+Valid,44.333330,Aumieres,Fell,L6,4900,"{'type': 'Point', 'coordinates': [3.23333, 44.33333]}",1842-01-01T00:00:00.000,,2000,,3.233330
+Valid,43.083330,Ausson,Fell,L5,4903,"{'type': 'Point', 'coordinates': [0.58333, 43.08333]}",1858-01-01T00:00:00.000,,50000,,0.583330
+Valid,-21.460280,Avanhandava,Fell,H4,4905,"{'type': 'Point', 'coordinates': [-49.95083, -21.46028]}",1952-01-01T00:00:00.000,,9330,,-49.950830
+Valid,46.000000,Avce,Fell,"Iron, IIAB",4906,"{'type': 'Point', 'coordinates': [13.5, 46]}",1908-01-01T00:00:00.000,,1230,,13.500000
+Valid,25.000000,Avilez,Fell,H,4907,"{'type': 'Point', 'coordinates': [-103.5, 25]}",1855-01-01T00:00:00.000,,146,,-103.500000
+Valid,2.716670,Awere,Fell,L4,4910,"{'type': 'Point', 'coordinates': [32.83333, 2.71667]}",1968-01-01T00:00:00.000,,134,,32.833330
+Valid,36.800000,Aztec,Fell,L6,4913,"{'type': 'Point', 'coordinates': [-108, 36.8]}",1938-01-01T00:00:00.000,11,2830,1989,-108.000000
+Valid,48.600000,Bachmut,Fell,L6,4917,"{'type': 'Point', 'coordinates': [38, 48.6]}",1814-01-01T00:00:00.000,,18000,,38.000000
+Valid,28.483330,Bahjoi,Fell,"Iron, IAB-sLL",4922,"{'type': 'Point', 'coordinates': [78.5, 28.48333]}",1934-01-01T00:00:00.000,,10322,,78.500000
+Valid,35.966670,Bald Mountain,Fell,L4,4925,"{'type': 'Point', 'coordinates': [-82.48333, 35.96667]}",1929-01-01T00:00:00.000,37,3700,2373,-82.483330
+Valid,34.500000,Baldwyn,Fell,L6,4926,"{'type': 'Point', 'coordinates': [-88.66667, 34.5]}",1922-01-01T00:00:00.000,32,345,495,-88.666670
+Valid,5.383330,Bali,Fell,CV3,4928,"{'type': 'Point', 'coordinates': [16.38333, 5.38333]}",1907-01-01T00:00:00.000,,1000,,16.383330
+Valid,16.666670,Ban Rong Du,Fell,"Iron, ungrouped",4934,"{'type': 'Point', 'coordinates': [101.18333, 16.66667]}",1993-01-01T00:00:00.000,,16700,,101.183330
+Valid,-6.916670,Bandong,Fell,LL6,4935,"{'type': 'Point', 'coordinates': [107.6, -6.91667]}",1871-01-01T00:00:00.000,,11500,,107.600000
+Valid,27.700000,Bansur,Fell,L6,4936,"{'type': 'Point', 'coordinates': [76.33333, 27.7]}",1892-01-01T00:00:00.000,,15000,,76.333330
+Valid,30.400000,Banswal,Fell,L5,4937,"{'type': 'Point', 'coordinates': [78.2, 30.4]}",1913-01-01T00:00:00.000,,14,,78.200000
+Valid,-6.333330,Banten,Fell,CM2,4938,"{'type': 'Point', 'coordinates': [106, -6.33333]}",1933-01-01T00:00:00.000,,629,,106.000000
+Valid,43.950000,Barbotan,Fell,H5,4942,"{'type': 'Point', 'coordinates': [-0.05, 43.95]}",1790-01-01T00:00:00.000,,6400,,-0.050000
+Valid,41.366670,Barcelona (stone),Fell,OC,4944,"{'type': 'Point', 'coordinates': [2.16667, 41.36667]}",1704-01-01T00:00:00.000,,,,2.166670
+Valid,42.383330,Barea,Fell,Mesosiderite-A1,4946,"{'type': 'Point', 'coordinates': [-2.5, 42.38333]}",1842-01-01T00:00:00.000,,3200,,-2.500000
+Valid,52.733330,Barnaul,Fell,H5,4947,"{'type': 'Point', 'coordinates': [84.08333, 52.73333]}",1904-01-01T00:00:00.000,,23.2,,84.083330
+Valid,52.000000,Barntrup,Fell,LL4,4948,"{'type': 'Point', 'coordinates': [9.1, 52]}",1886-01-01T00:00:00.000,,17,,9.100000
+Valid,31.616670,Baroti,Fell,L6,4949,"{'type': 'Point', 'coordinates': [76.8, 31.61667]}",1910-01-01T00:00:00.000,,4500,,76.800000
+Valid,52.565280,Barwell,Fell,L5,4954,"{'type': 'Point', 'coordinates': [-1.33972, 52.56528]}",1965-01-01T00:00:00.000,,44000,,-1.339720
+Valid,15.783330,Bassikounou,Fell,H5,44876,"{'type': 'Point', 'coordinates': [-5.9, 15.78333]}",2006-01-01T00:00:00.000,,29560,,-5.900000
+Valid,52.033330,Baszkówka,Fell,L5,4957,"{'type': 'Point', 'coordinates': [20.93583, 52.03333]}",1994-01-01T00:00:00.000,,15500,,20.935830
+Valid,45.416670,Bath,Fell,H4,4974,"{'type': 'Point', 'coordinates': [-98.31667, 45.41667]}",1892-01-01T00:00:00.000,21,21000,662,-98.316670
+Valid,38.250000,Bath Furnace,Fell,L6,4975,"{'type': 'Point', 'coordinates': [-83.75, 38.25]}",1902-01-01T00:00:00.000,36,86000,1921,-83.750000
+Valid,40.668130,Battle Mountain,Fell,L6,56133,"{'type': 'Point', 'coordinates': [-117.18913, 40.66813]}",2012-01-01T00:00:00.000,10,2900,2397,-117.189130
+Valid,11.083330,Bawku,Fell,LL5,4976,"{'type': 'Point', 'coordinates': [-0.18333, 11.08333]}",1989-01-01T00:00:00.000,,1557,,-0.183330
+Valid,36.750000,Baxter,Fell,L6,4977,"{'type': 'Point', 'coordinates': [-93.5, 36.75]}",1916-01-01T00:00:00.000,18,611,2216,-93.500000
+Valid,39.800000,Beardsley,Fell,H5,4984,"{'type': 'Point', 'coordinates': [-101.2, 39.8]}",1929-01-01T00:00:00.000,17,16000,1285,-101.200000
+Valid,51.166670,Beaver Creek,Fell,H5,4986,"{'type': 'Point', 'coordinates': [-117.33333, 51.16667]}",1893-01-01T00:00:00.000,,14000,,-117.333330
+Valid,53.016670,Beddgelert,Fell,H5,4993,"{'type': 'Point', 'coordinates': [-4.1, 53.01667]}",1949-01-01T00:00:00.000,,794,,-4.100000
+Valid,33.600000,Bells,Fell,C2-ung,5005,"{'type': 'Point', 'coordinates': [-96.46667, 33.6]}",1961-01-01T00:00:00.000,23,375,1978,-96.466670
+Valid,-32.333330,Belville,Fell,OC,5009,"{'type': 'Point', 'coordinates': [-64.86667, -32.33333]}",1937-01-01T00:00:00.000,,,,-64.866670
+Valid,25.366670,Benares (a),Fell,LL4,5011,"{'type': 'Point', 'coordinates': [82.91667, 25.36667]}",1798-01-01T00:00:00.000,,3700,,82.916670
+Valid,32.250000,Benguerir,Fell,LL6,30443,"{'type': 'Point', 'coordinates': [-8.15, 32.25]}",2004-01-01T00:00:00.000,,25000,,-8.150000
+Valid,32.866670,Beni M'hira,Fell,L6,5018,"{'type': 'Point', 'coordinates': [10.8, 32.86667]}",2001-01-01T00:00:00.000,,19000,,10.800000
+Valid,39.083330,Benld,Fell,H6,5021,"{'type': 'Point', 'coordinates': [-89.15, 39.08333]}",1938-01-01T00:00:00.000,34,1770.5,1869,-89.150000
+Valid,-26.166670,Benoni,Fell,H6,5023,"{'type': 'Point', 'coordinates': [28.41667, -26.16667]}",1943-01-01T00:00:00.000,,3880,,28.416670
+Valid,30.000000,Bensour,Fell,LL6,5024,"{'type': 'Point', 'coordinates': [-7, 30]}",2002-01-01T00:00:00.000,,45000,,-7.000000
+Valid,45.950000,Benton,Fell,LL6,5026,"{'type': 'Point', 'coordinates': [-67.55, 45.95]}",1949-01-01T00:00:00.000,,2840,,-67.550000
+Valid,-31.910000,Berduc,Fell,L6,48975,"{'type': 'Point', 'coordinates': [-58.32833, -31.91]}",2008-01-01T00:00:00.000,,270,,-58.328330
+Valid,11.650000,Béréba,Fell,Eucrite-mmict,5028,"{'type': 'Point', 'coordinates': [-3.65, 11.65]}",1924-01-01T00:00:00.000,,18000,,-3.650000
+Valid,41.683330,Berlanguillas,Fell,L6,5029,"{'type': 'Point', 'coordinates': [-3.8, 41.68333]}",1811-01-01T00:00:00.000,,1440,,-3.800000
+Valid,40.305830,Berthoud,Fell,Eucrite-mmict,47355,"{'type': 'Point', 'coordinates': [-105.02325, 40.30583]}",2004-01-01T00:00:00.000,9,960,1072,-105.023250
+Valid,42.533330,Bethlehem,Fell,H,5032,"{'type': 'Point', 'coordinates': [-73.83333, 42.53333]}",1859-01-01T00:00:00.000,47,13.9,2030,-73.833330
+Valid,43.216670,Beuste,Fell,L5,5034,"{'type': 'Point', 'coordinates': [-0.23333, 43.21667]}",1859-01-01T00:00:00.000,,2000,,-0.233330
+Valid,33.883330,Beyrout,Fell,LL3.8,5035,"{'type': 'Point', 'coordinates': [35.5, 33.88333]}",1921-01-01T00:00:00.000,,1100,,35.500000
+Valid,20.883330,Bhagur,Fell,L6,5037,"{'type': 'Point', 'coordinates': [74.83333, 20.88333]}",1877-01-01T00:00:00.000,,18,,74.833330
+Valid,26.508330,Bhawad,Fell,LL6,36591,"{'type': 'Point', 'coordinates': [73.11528, 26.50833]}",2002-01-01T00:00:00.000,,678,,73.115280
+Valid,20.833330,Bherai,Fell,L6,5039,"{'type': 'Point', 'coordinates': [71.46667, 20.83333]}",1893-01-01T00:00:00.000,,100,,71.466670
+Valid,22.683330,Bhola,Fell,LL3-6,5040,"{'type': 'Point', 'coordinates': [90.65, 22.68333]}",1940-01-01T00:00:00.000,,1047,,90.650000
+Valid,22.083330,Bholghati,Fell,Howardite,5041,"{'type': 'Point', 'coordinates': [86.9, 22.08333]}",1905-01-01T00:00:00.000,,2500,,86.900000
+Valid,53.100000,Bialystok,Fell,Eucrite-pmict,5042,"{'type': 'Point', 'coordinates': [23.2, 53.1]}",1827-01-01T00:00:00.000,,4000,,23.200000
+Valid,50.133330,Bielokrynitschie,Fell,H4,5043,"{'type': 'Point', 'coordinates': [27.16667, 50.13333]}",1887-01-01T00:00:00.000,,1900,,27.166670
+Valid,12.450000,Bilanga,Fell,Diogenite,5045,"{'type': 'Point', 'coordinates': [-0.08333, 12.45]}",1999-01-01T00:00:00.000,,25000,,-0.083330
+Valid,-33.156390,Binningup,Fell,H5,5051,"{'type': 'Point', 'coordinates': [115.67639, -33.15639]}",1984-01-01T00:00:00.000,,488.1,,115.676390
+Valid,13.766670,Birni N'konni,Fell,H4,5056,"{'type': 'Point', 'coordinates': [5.3, 13.76667]}",1923-01-01T00:00:00.000,,560,,5.300000
+Valid,34.166670,Bishopville,Fell,Aubrite,5059,"{'type': 'Point', 'coordinates': [-80.28333, 34.16667]}",1843-01-01T00:00:00.000,33,6000,657,-80.283330
+Valid,25.383330,Bishunpur,Fell,LL3.15,5060,"{'type': 'Point', 'coordinates': [82.6, 25.38333]}",1895-01-01T00:00:00.000,,1039,,82.600000
+Valid,49.783330,Bjelaja Zerkov,Fell,H6,5063,"{'type': 'Point', 'coordinates': [30.16667, 49.78333]}",1796-01-01T00:00:00.000,,1850,,30.166670
+Valid,60.400000,Bjurböle,Fell,L/LL4,5064,"{'type': 'Point', 'coordinates': [25.8, 60.4]}",1899-01-01T00:00:00.000,,330000,,25.800000
+Valid,40.916670,Black Moshannan Park,Fell,L5,5065,"{'type': 'Point', 'coordinates': [-78.08333, 40.91667]}",1941-01-01T00:00:00.000,48,705,2495,-78.083330
+Valid,36.833330,Blackwell,Fell,L5,5068,"{'type': 'Point', 'coordinates': [-97.33333, 36.83333]}",1906-01-01T00:00:00.000,20,2381,2164,-97.333330
+Valid,31.833330,Blanket,Fell,L6,5071,"{'type': 'Point', 'coordinates': [-98.83333, 31.83333]}",1909-01-01T00:00:00.000,23,5100,3063,-98.833330
+Valid,49.366670,Blansko,Fell,H6,5072,"{'type': 'Point', 'coordinates': [16.63333, 49.36667]}",1833-01-01T00:00:00.000,,470,,16.633330
+Valid,40.480000,Bloomington,Fell,LL6,5076,"{'type': 'Point', 'coordinates': [-89.00417, 40.48]}",1938-01-01T00:00:00.000,34,67.8,1795,-89.004170
+Valid,33.833330,Bo Xian,Fell,LL3.9,5090,"{'type': 'Point', 'coordinates': [115.83333, 33.83333]}",1977-01-01T00:00:00.000,,7500,,115.833330
+Valid,23.000000,Bocas,Fell,L6,5093,"{'type': 'Point', 'coordinates': [-102, 23]}",1804-01-01T00:00:00.000,,56,,-102.000000
+Valid,12.500000,Bogou,Fell,"Iron, IAB-MG",5097,"{'type': 'Point', 'coordinates': [0.7, 12.5]}",1962-01-01T00:00:00.000,,8800,,0.700000
+Valid,44.550000,Boguslavka,Fell,"Iron, IIAB",5098,"{'type': 'Point', 'coordinates': [131.63333, 44.55]}",1916-01-01T00:00:00.000,,256000,,131.633330
+Valid,44.866670,Borgo San Donino,Fell,LL6,5110,"{'type': 'Point', 'coordinates': [10.05, 44.86667]}",1808-01-01T00:00:00.000,,1676,,10.050000
+Valid,21.950000,Bori,Fell,L6,5111,"{'type': 'Point', 'coordinates': [78.03333, 21.95]}",1894-01-01T00:00:00.000,,8600,,78.033330
+Valid,54.233330,Boriskino,Fell,CM2,5112,"{'type': 'Point', 'coordinates': [52.48333, 54.23333]}",1930-01-01T00:00:00.000,,1342,,52.483330
+Valid,48.150000,Borkut,Fell,L5,5113,"{'type': 'Point', 'coordinates': [24.28333, 48.15]}",1852-01-01T00:00:00.000,,7000,,24.283330
+Valid,55.466670,Borodino,Fell,H5,5114,"{'type': 'Point', 'coordinates': [35.86667, 55.46667]}",1812-01-01T00:00:00.000,,500,,35.866670
+Valid,51.333330,Botschetschki,Fell,L4,5117,"{'type': 'Point', 'coordinates': [33.88333, 51.33333]}",1823-01-01T00:00:00.000,,614,,33.883330
+Valid,17.710670,Boumdeid (2003),Fell,L6,57168,"{'type': 'Point', 'coordinates': [-11.3715, 17.71067]}",2003-01-01T00:00:00.000,,190,,-11.371500
+Valid,17.174930,Boumdeid (2011),Fell,L6,57167,"{'type': 'Point', 'coordinates': [-11.34133, 17.17493]}",2011-01-01T00:00:00.000,,3599,,-11.341330
+Valid,54.566670,Bovedy,Fell,L3,5121,"{'type': 'Point', 'coordinates': [-6.33333, 54.56667]}",1969-01-01T00:00:00.000,,5460,,-6.333330
+Valid,40.500000,Bradford Woods,Fell,L,5128,"{'type': 'Point', 'coordinates': [-80.08333, 40.5]}",1886-01-01T00:00:00.000,48,762,2455,-80.083330
+Valid,50.600000,Braunau,Fell,"Iron, IIAB",5133,"{'type': 'Point', 'coordinates': [16.3, 50.6]}",1847-01-01T00:00:00.000,,39000,,16.300000
+Valid,50.666940,Breitscheid,Fell,H5,5134,"{'type': 'Point', 'coordinates': [8.18361, 50.66694]}",1956-01-01T00:00:00.000,,1500,,8.183610
+Valid,53.400000,Bremervörde,Fell,H/L3.9,5135,"{'type': 'Point', 'coordinates': [9.1, 53.4]}",1855-01-01T00:00:00.000,,7250,,9.100000
+Valid,52.133330,Brient,Fell,Eucrite-pmict,5140,"{'type': 'Point', 'coordinates': [59.31667, 52.13333]}",1933-01-01T00:00:00.000,,219,,59.316670
+Valid,53.900000,Bruderheim,Fell,L6,5156,"{'type': 'Point', 'coordinates': [-112.88333, 53.9]}",1960-01-01T00:00:00.000,,303000,,-112.883330
+Valid,39.779780,Bukhara,Fell,CV3,30448,"{'type': 'Point', 'coordinates': [64.60035, 39.77978]}",2001-01-01T00:00:00.000,,5300,,64.600350
+Valid,,Bulls Run,Fell,Iron?,5163,,1964-01-01T00:00:00.000,,2250,,
+Valid,-31.350000,Bunburra Rockhole,Fell,Eucrite,48653,"{'type': 'Point', 'coordinates': [129.19, -31.35]}",2007-01-01T00:00:00.000,,324,,129.190000
+Valid,10.016670,Bununu,Fell,Howardite,5165,"{'type': 'Point', 'coordinates': [9.58333, 10.01667]}",1942-01-01T00:00:00.000,,357,,9.583330
+Valid,5.000000,Bur-Gheluai,Fell,H5,5169,"{'type': 'Point', 'coordinates': [48, 5]}",1919-01-01T00:00:00.000,,120000,,48.000000
+Valid,37.621940,Burnwell,Fell,H4-an,5175,"{'type': 'Point', 'coordinates': [-82.23722, 37.62194]}",1990-01-01T00:00:00.000,36,1504,256,-82.237220
+Valid,40.200000,Bursa,Fell,L6,5177,"{'type': 'Point', 'coordinates': [29.23333, 40.2]}",1946-01-01T00:00:00.000,,25000,,29.233330
+Valid,46.450000,Buschhof,Fell,L6,5178,"{'type': 'Point', 'coordinates': [25.78333, 46.45]}",1863-01-01T00:00:00.000,,5000,,25.783330
+Valid,26.783330,Bustee,Fell,Aubrite,5181,"{'type': 'Point', 'coordinates': [82.83333, 26.78333]}",1852-01-01T00:00:00.000,,1500,,82.833330
+Valid,27.083330,Butsura,Fell,H6,5183,"{'type': 'Point', 'coordinates': [84.08333, 27.08333]}",1861-01-01T00:00:00.000,,29000,,84.083330
+Valid,52.996000,Buzzard Coulee,Fell,H4,48654,"{'type': 'Point', 'coordinates': [-109.84817, 52.996]}",2008-01-01T00:00:00.000,,41000,,-109.848170
+Valid,37.983330,Cabezo de Mayo,Fell,L/LL6,5185,"{'type': 'Point', 'coordinates': [-1.16667, 37.98333]}",1870-01-01T00:00:00.000,,25000,,-1.166670
+Valid,35.500000,Cabin Creek,Fell,"Iron, IIIAB",5186,"{'type': 'Point', 'coordinates': [-93.5, 35.5]}",1886-01-01T00:00:00.000,15,48500,1029,-93.500000
+Valid,43.838890,Cacak,Fell,OC,5187,"{'type': 'Point', 'coordinates': [20.33333, 43.83889]}",1919-01-01T00:00:00.000,,212,,20.333330
+Valid,3.405000,Cali,Fell,H/L4,45976,"{'type': 'Point', 'coordinates': [-76.51, 3.405]}",2007-01-01T00:00:00.000,,478,,-76.510000
+Valid,11.750000,Calivo,Fell,Stone-uncl,5200,"{'type': 'Point', 'coordinates': [122.33333, 11.75]}",1916-01-01T00:00:00.000,,2400,,122.333330
+Valid,-7.033330,Campos Sales,Fell,L5,5249,"{'type': 'Point', 'coordinates': [-40.16667, -7.03333]}",1991-01-01T00:00:00.000,,23680,,-40.166670
+Valid,39.800000,Çanakkale,Fell,L6,5250,"{'type': 'Point', 'coordinates': [26.6, 39.8]}",1964-01-01T00:00:00.000,,4000,,26.600000
+Valid,41.250000,Cañellas,Fell,H4,5251,"{'type': 'Point', 'coordinates': [1.66667, 41.25]}",1861-01-01T00:00:00.000,,945,,1.666670
+Valid,43.383330,Cangas de Onis,Fell,H5,5252,"{'type': 'Point', 'coordinates': [-5.15, 43.38333]}",1866-01-01T00:00:00.000,,34000,,-5.150000
+Valid,38.470280,Canon City,Fell,H6,5253,"{'type': 'Point', 'coordinates': [-105.24139, 38.47028]}",1973-01-01T00:00:00.000,9,1400,1448,-105.241390
+Valid,37.266670,Cape Girardeau,Fell,H6,5260,"{'type': 'Point', 'coordinates': [-89.58333, 37.26667]}",1846-01-01T00:00:00.000,18,2300,2695,-89.583330
+Valid,-30.883330,Capilla del Monte,Fell,H6,5264,"{'type': 'Point', 'coordinates': [-64.55, -30.88333]}",1934-01-01T00:00:00.000,,750,,-64.550000
+Valid,-16.664440,Carancas,Fell,H4-5,45817,"{'type': 'Point', 'coordinates': [-69.04389, -16.66444]}",2007-01-01T00:00:00.000,,342,,-69.043890
+Valid,38.500000,Caratash,Fell,LL6,5265,"{'type': 'Point', 'coordinates': [27, 38.5]}",1902-01-01T00:00:00.000,,8,,27.000000
+Valid,36.083330,Castalia,Fell,H5,5291,"{'type': 'Point', 'coordinates': [-78.06667, 36.08333]}",1874-01-01T00:00:00.000,37,7300,648,-78.066670
+Valid,43.350000,Castel Berardenga,Fell,Stone-uncl,5292,"{'type': 'Point', 'coordinates': [11.5, 43.35]}",1791-01-01T00:00:00.000,,,,11.500000
+Valid,44.383330,Castine,Fell,L6,5293,"{'type': 'Point', 'coordinates': [-68.75, 44.38333]}",1848-01-01T00:00:00.000,49,94,414,-68.750000
+Valid,39.800000,Castrovillari,Fell,Stone-uncl,5295,"{'type': 'Point', 'coordinates': [16.2, 39.8]}",1583-01-01T00:00:00.000,,15000,,16.200000
+Valid,36.500000,Caswell County,Fell,OC,5296,"{'type': 'Point', 'coordinates': [-79.25, 36.5]}",1810-01-01T00:00:00.000,37,1360,637,-79.250000
+Valid,26.466670,Ceniceros,Fell,L3.7,5306,"{'type': 'Point', 'coordinates': [-105.23333, 26.46667]}",1988-01-01T00:00:00.000,,1025,,-105.233330
+Valid,43.200000,Centerville,Fell,H5,5307,"{'type': 'Point', 'coordinates': [-96.91667, 43.2]}",1956-01-01T00:00:00.000,21,45.6,2684,-96.916670
+Valid,45.083330,Cereseto,Fell,H5,5308,"{'type': 'Point', 'coordinates': [8.3, 45.08333]}",1840-01-01T00:00:00.000,,6460,,8.300000
+Valid,28.533330,Chadong,Fell,L6,5313,"{'type': 'Point', 'coordinates': [109.31667, 28.53333]}",1998-01-01T00:00:00.000,,3700,,109.316670
+Valid,25.366670,Chail,Fell,H6,5314,"{'type': 'Point', 'coordinates': [81.66667, 25.36667]}",1814-01-01T00:00:00.000,,0.5,,81.666670
+Valid,25.850000,Chainpur,Fell,LL3.4,5315,"{'type': 'Point', 'coordinates': [83.48333, 25.85]}",1907-01-01T00:00:00.000,,8200,,83.483330
+Valid,-30.783330,Chajari,Fell,L5,5316,"{'type': 'Point', 'coordinates': [-58.05, -30.78333]}",1933-01-01T00:00:00.000,,18300,,-58.050000
+Valid,20.266670,Chandakapur,Fell,L5,5320,"{'type': 'Point', 'coordinates': [76.01667, 20.26667]}",1838-01-01T00:00:00.000,,8800,,76.016670
+Valid,27.283330,Chandpur,Fell,L6,5321,"{'type': 'Point', 'coordinates': [79.05, 27.28333]}",1885-01-01T00:00:00.000,,1100,,79.050000
+Valid,29.083330,Changde,Fell,H5,5322,"{'type': 'Point', 'coordinates': [111.75, 29.08333]}",1977-01-01T00:00:00.000,,1810,,111.750000
+Valid,46.683330,Chantonnay,Fell,L6,5325,"{'type': 'Point', 'coordinates': [1.05, 46.68333]}",1812-01-01T00:00:00.000,,31500,,1.050000
+Valid,36.166670,Charlotte,Fell,"Iron, IVA",5328,"{'type': 'Point', 'coordinates': [-87.33333, 36.16667]}",1835-01-01T00:00:00.000,39,4300,2007,-87.333330
+Valid,47.933330,Charsonville,Fell,H6,5329,"{'type': 'Point', 'coordinates': [1.56667, 47.93333]}",1810-01-01T00:00:00.000,,27000,,1.566670
+Valid,29.483330,Charwallas,Fell,H6,5330,"{'type': 'Point', 'coordinates': [75.5, 29.48333]}",1834-01-01T00:00:00.000,,12000,,75.500000
+Valid,47.716670,Chassigny,Fell,Martian (chassignite),5331,"{'type': 'Point', 'coordinates': [5.36667, 47.71667]}",1815-01-01T00:00:00.000,,4000,,5.366670
+Valid,47.933330,Château-Renard,Fell,L6,5332,"{'type': 'Point', 'coordinates': [2.91667, 47.93333]}",1841-01-01T00:00:00.000,,30000,,2.916670
+Valid,41.933330,Chaves,Fell,Howardite,5334,"{'type': 'Point', 'coordinates': [-7.46667, 41.93333]}",1925-01-01T00:00:00.000,,2945,,-7.466670
+Valid,-3.666670,Chela,Fell,H4,5338,"{'type': 'Point', 'coordinates': [32.5, -3.66667]}",1988-01-01T00:00:00.000,,2936,,32.500000
+Valid,54.816670,Chelyabinsk,Fell,LL5,57165,"{'type': 'Point', 'coordinates': [61.11667, 54.81667]}",2013-01-01T00:00:00.000,,100000,,61.116670
+Valid,23.696390,Chergach ,Fell,H5,47347,"{'type': 'Point', 'coordinates': [-5.01472, 23.69639]}",2007-01-01T00:00:00.000,,100000,,-5.014720
+Valid,53.700000,Chernyi Bor,Fell,H4,5339,"{'type': 'Point', 'coordinates': [30.1, 53.7]}",1964-01-01T00:00:00.000,,6000,,30.100000
+Valid,35.033330,Cherokee Springs,Fell,LL6,5340,"{'type': 'Point', 'coordinates': [-81.88333, 35.03333]}",1933-01-01T00:00:00.000,33,8400,2582,-81.883330
+Valid,46.550000,Chervettaz,Fell,L5,5341,"{'type': 'Point', 'coordinates': [6.81667, 46.55]}",1901-01-01T00:00:00.000,,705,,6.816670
+Valid,50.833330,Chervony Kut,Fell,Eucrite-mmict,5342,"{'type': 'Point', 'coordinates': [34, 50.83333]}",1939-01-01T00:00:00.000,,1700,,34.000000
+Valid,14.500000,Chetrinahatti,Fell,Stone-uncl,5344,"{'type': 'Point', 'coordinates': [76.5, 14.5]}",1880-01-01T00:00:00.000,,72,,76.500000
+Valid,17.900000,Chiang Khan,Fell,H6,5345,"{'type': 'Point', 'coordinates': [101.63333, 17.9]}",1981-01-01T00:00:00.000,,367,,101.633330
+Valid,40.933330,Chicora,Fell,LL6,5349,"{'type': 'Point', 'coordinates': [-79.73333, 40.93333]}",1938-01-01T00:00:00.000,48,303,2459,-79.733330
+Valid,-10.059440,Chisenga,Fell,"Iron, IIIAB",5355,"{'type': 'Point', 'coordinates': [33.395, -10.05944]}",1988-01-01T00:00:00.000,,3920,,33.395000
+Valid,-17.350000,Chitado,Fell,L6,5356,"{'type': 'Point', 'coordinates': [13.96667, -17.35]}",1966-01-01T00:00:00.000,,,,13.966670
+Valid,47.470830,Chitenay,Fell,L6,5357,"{'type': 'Point', 'coordinates': [0.97667, 47.47083]}",1978-01-01T00:00:00.000,,4000,,0.976670
+Valid,-6.950000,Cilimus,Fell,L5,5364,"{'type': 'Point', 'coordinates': [108.1, -6.95]}",1979-01-01T00:00:00.000,,1600,,108.100000
+Valid,32.102500,Claxton,Fell,L6,5374,"{'type': 'Point', 'coordinates': [-81.87278, 32.1025]}",1984-01-01T00:00:00.000,31,1455,67,-81.872780
+Valid,,Clohars,Fell,L4,5383,,1822-01-01T00:00:00.000,,48.6,,
+Valid,44.900000,Colby (Wisconsin),Fell,L6,5395,"{'type': 'Point', 'coordinates': [-90.28333, 44.9]}",1917-01-01T00:00:00.000,41,104000,877,-90.283330
+Valid,-33.133330,Cold Bokkeveld,Fell,CM2,5397,"{'type': 'Point', 'coordinates': [19.38333, -33.13333]}",1838-01-01T00:00:00.000,,5200,,19.383330
+Valid,43.761110,Coleman,Fell,L6,5401,"{'type': 'Point', 'coordinates': [-84.50778, 43.76111]}",1994-01-01T00:00:00.000,50,469,356,-84.507780
+Valid,42.533330,Collescipoli,Fell,H5,5403,"{'type': 'Point', 'coordinates': [12.61667, 42.53333]}",1890-01-01T00:00:00.000,,5000,,12.616670
+Valid,-19.850000,Conquista,Fell,H4,5418,"{'type': 'Point', 'coordinates': [-47.55, -19.85]}",1965-01-01T00:00:00.000,,20350,,-47.550000
+Valid,21.166670,Cosina,Fell,H5,5451,"{'type': 'Point', 'coordinates': [-100.86667, 21.16667]}",1844-01-01T00:00:00.000,,1200,,-100.866670
+Valid,10.200000,Cranganore,Fell,L6,5465,"{'type': 'Point', 'coordinates': [76.26667, 10.2]}",1917-01-01T00:00:00.000,,1460,,76.266670
+Valid,35.950000,Crescent,Fell,CM2,5470,"{'type': 'Point', 'coordinates': [-97.58333, 35.95]}",1936-01-01T00:00:00.000,20,78.400000000000006,2201,-97.583330
+Valid,-27.700000,Cronstad,Fell,H5,5474,"{'type': 'Point', 'coordinates': [27.3, -27.7]}",1877-01-01T00:00:00.000,,3650,,27.300000
+Valid,35.633330,Cross Roads,Fell,H5,5476,"{'type': 'Point', 'coordinates': [-78.13333, 35.63333]}",1892-01-01T00:00:00.000,37,167,2332,-78.133330
+Valid,54.616670,Crumlin,Fell,L5,5477,"{'type': 'Point', 'coordinates': [-6.21667, 54.61667]}",1902-01-01T00:00:00.000,,4255,,-6.216670
+Valid,36.833330,Cumberland Falls,Fell,Aubrite,5496,"{'type': 'Point', 'coordinates': [-84.35, 36.83333]}",1919-01-01T00:00:00.000,36,17000,1426,-84.350000
+Valid,38.400000,Cynthiana,Fell,L/LL4,5500,"{'type': 'Point', 'coordinates': [-84.25, 38.4]}",1877-01-01T00:00:00.000,36,6000,244,-84.250000
+Valid,35.616670,Dahmani,Fell,LL6,5504,"{'type': 'Point', 'coordinates': [8.83333, 35.61667]}",1981-01-01T00:00:00.000,,18000,,8.833330
+Valid,26.916670,Dandapur,Fell,L6,5511,"{'type': 'Point', 'coordinates': [83.96667, 26.91667]}",1878-01-01T00:00:00.000,,5650,,83.966670
+Valid,-28.200000,Daniel's Kuil,Fell,EL6,5513,"{'type': 'Point', 'coordinates': [24.56667, -28.2]}",1868-01-01T00:00:00.000,,1064,,24.566670
+Valid,34.400000,Danville,Fell,L6,5514,"{'type': 'Point', 'coordinates': [-87.06667, 34.4]}",1868-01-01T00:00:00.000,29,2000,103,-87.066670
+Valid,49.866670,Darmstadt,Fell,H5,6603,"{'type': 'Point', 'coordinates': [8.65, 49.86667]}",1804-01-01T00:00:00.000,,100,,8.650000
+Valid,41.984440,Dashoguz,Fell,H5,6604,"{'type': 'Point', 'coordinates': [59.685, 41.98444]}",1998-01-01T00:00:00.000,,7000,,59.685000
+Valid,-1.870890,Daule,Fell,L5,51559,"{'type': 'Point', 'coordinates': [-79.95756, -1.87089]}",2008-01-01T00:00:00.000,,6580,,-79.957560
+Valid,43.000000,De Cewsville,Fell,H6,6621,"{'type': 'Point', 'coordinates': [-80, 43]}",1887-01-01T00:00:00.000,,340,,-80.000000
+Valid,40.250000,Deal,Fell,L6,6634,"{'type': 'Point', 'coordinates': [-74, 40.25]}",1829-01-01T00:00:00.000,,28,2491,-74.000000
+Valid,28.566670,Delhi,Fell,L5,6642,"{'type': 'Point', 'coordinates': [77.25, 28.56667]}",1897-01-01T00:00:00.000,,0.8,,77.250000
+Valid,51.466670,Demina,Fell,L6,6649,"{'type': 'Point', 'coordinates': [84.76667, 51.46667]}",1911-01-01T00:00:00.000,,16400,,84.766670
+Valid,39.782500,Denver,Fell,L6,6660,"{'type': 'Point', 'coordinates': [-104.93056, 39.7825]}",1967-01-01T00:00:00.000,9,230,1444,-104.930560
+Valid,26.683330,Dergaon,Fell,H5,6664,"{'type': 'Point', 'coordinates': [93.86667, 26.68333]}",2001-01-01T00:00:00.000,,12500,,93.866670
+Valid,25.733330,Desuri,Fell,H6,6693,"{'type': 'Point', 'coordinates': [73.61667, 25.73333]}",1962-01-01T00:00:00.000,,25400,,73.616670
+Valid,19.000000,Devgaon,Fell,H3.8,6694,"{'type': 'Point', 'coordinates': [81, 19]}",2001-01-01T00:00:00.000,,12000,,81.000000
+Valid,24.225000,Devri-Khera,Fell,L6,6696,"{'type': 'Point', 'coordinates': [76.525, 24.225]}",1994-01-01T00:00:00.000,,1140,,76.525000
+Valid,22.377780,Dhajala,Fell,H3.8,6698,"{'type': 'Point', 'coordinates': [71.42722, 22.37778]}",1976-01-01T00:00:00.000,,45000,,71.427220
+Valid,14.883330,Dharwar,Fell,OC,6699,"{'type': 'Point', 'coordinates': [75.6, 14.88333]}",1848-01-01T00:00:00.000,,1800,,75.600000
+Valid,32.233330,Dhurmsala,Fell,LL6,7640,"{'type': 'Point', 'coordinates': [76.46667, 32.23333]}",1860-01-01T00:00:00.000,,32000,,76.466670
+Valid,37.351720,Didim,Fell,H3-5,47350,"{'type': 'Point', 'coordinates': [27.32997, 37.35172]}",2007-01-01T00:00:00.000,,3396,,27.329970
+Valid,-33.750000,Diep River,Fell,L6,7642,"{'type': 'Point', 'coordinates': [18.56667, -33.75]}",1906-01-01T00:00:00.000,,1000,,18.566670
+Valid,-31.883330,Distrito Quebracho,Fell,H4,7649,"{'type': 'Point', 'coordinates': [-60.46667, -31.88333]}",1957-01-01T00:00:00.000,,400,,-60.466670
+Valid,-7.500000,Djati-Pengilon,Fell,H6,7652,"{'type': 'Point', 'coordinates': [111.5, -7.5]}",1884-01-01T00:00:00.000,,166000,,111.500000
+Valid,12.733330,Djermaia,Fell,H,7656,"{'type': 'Point', 'coordinates': [15.05, 12.73333]}",1961-01-01T00:00:00.000,,3950,,15.050000
+Valid,36.950000,Djoumine,Fell,H5-6,7657,"{'type': 'Point', 'coordinates': [9.55, 36.95]}",1999-01-01T00:00:00.000,,10000,,9.550000
+Valid,23.500000,Dokachi,Fell,H5,7658,"{'type': 'Point', 'coordinates': [90.33333, 23.5]}",1903-01-01T00:00:00.000,,3840,,90.333330
+Valid,50.750000,Dolgovoli,Fell,L6,7659,"{'type': 'Point', 'coordinates': [25.3, 50.75]}",1864-01-01T00:00:00.000,,1600,,25.300000
+Valid,40.000000,Domanitch,Fell,L5,7661,"{'type': 'Point', 'coordinates': [29, 40]}",1907-01-01T00:00:00.000,,438,,29.000000
+Valid,45.500000,Dong Ujimqin Qi,Fell,Mesosiderite,7706,"{'type': 'Point', 'coordinates': [119.03333, 45.5]}",1995-01-01T00:00:00.000,,128800,,119.033330
+Valid,21.866670,Donga Kohrod,Fell,H6,7707,"{'type': 'Point', 'coordinates': [82.45, 21.86667]}",1899-01-01T00:00:00.000,,230,,82.450000
+Valid,32.916670,Dongtai,Fell,LL6,7708,"{'type': 'Point', 'coordinates': [120.78333, 32.91667]}",1970-01-01T00:00:00.000,,5500,,120.783330
+Valid,51.200000,Doroninsk,Fell,H5-7,7718,"{'type': 'Point', 'coordinates': [112.3, 51.2]}",1805-01-01T00:00:00.000,,3891,,112.300000
+Valid,13.050000,Dosso,Fell,L6,7722,"{'type': 'Point', 'coordinates': [3.16667, 13.05]}",1962-01-01T00:00:00.000,,1250,,3.166670
+Valid,32.333330,Douar Mghila,Fell,LL6,7723,"{'type': 'Point', 'coordinates': [-6.3, 32.33333]}",1932-01-01T00:00:00.000,,1161,,-6.300000
+Valid,-13.666670,Dowa,Fell,Stone-uncl,7725,"{'type': 'Point', 'coordinates': [33.91667, -13.66667]}",1976-01-01T00:00:00.000,,642,,33.916670
+Valid,36.400000,Drake Creek,Fell,L6,7728,"{'type': 'Point', 'coordinates': [-86.5, 36.4]}",1827-01-01T00:00:00.000,39,5000,2115,-86.500000
+Valid,42.520000,Dresden (Ontario),Fell,H6,7731,"{'type': 'Point', 'coordinates': [-82.26, 42.52]}",1939-01-01T00:00:00.000,,47700,,-82.260000
+Valid,42.458330,Dubrovnik,Fell,L3-6,7736,"{'type': 'Point', 'coordinates': [18.44167, 42.45833]}",1951-01-01T00:00:00.000,,1900,,18.441670
+Valid,-31.666670,Dunbogan,Fell,L6,7743,"{'type': 'Point', 'coordinates': [152.83333, -31.66667]}",1999-01-01T00:00:00.000,,30,,152.833330
+Valid,52.550000,Dundrum,Fell,H5,7745,"{'type': 'Point', 'coordinates': [-8.03333, 52.55]}",1865-01-01T00:00:00.000,,2270,,-8.033330
+Valid,43.333330,Dunhua,Fell,Stone-uncl,7749,"{'type': 'Point', 'coordinates': [128.25, 43.33333]}",1976-01-01T00:00:00.000,,,,128.250000
+Valid,30.300000,Durala,Fell,L6,7750,"{'type': 'Point', 'coordinates': [76.63333, 30.3]}",1815-01-01T00:00:00.000,,13200,,76.633330
+Valid,-4.000000,Duruma,Fell,L6,7752,"{'type': 'Point', 'coordinates': [39.5, -4]}",1853-01-01T00:00:00.000,,577,,39.500000
+Valid,33.433330,Duwun,Fell,L6,7754,"{'type': 'Point', 'coordinates': [127.26667, 33.43333]}",1943-01-01T00:00:00.000,,2117,,127.266670
+Valid,-27.200000,Dwaleni,Fell,H4-6,7755,"{'type': 'Point', 'coordinates': [31.31667, -27.2]}",1970-01-01T00:00:00.000,,3230,,31.316670
+Valid,26.250000,Dyalpur,Fell,Ureilite,7757,"{'type': 'Point', 'coordinates': [82, 26.25]}",1872-01-01T00:00:00.000,,300,,82.000000
+Valid,-3.000000,Dyarrl Island,Fell,Mesosiderite-A1,7758,"{'type': 'Point', 'coordinates': [151, -3]}",1933-01-01T00:00:00.000,,188,,151.000000
+Valid,40.781670,Eagle,Fell,EL6,7760,"{'type': 'Point', 'coordinates': [-96.47167, 40.78167]}",1947-01-01T00:00:00.000,19,10000,462,-96.471670
+Valid,-17.300000,Ehole,Fell,H5,7774,"{'type': 'Point', 'coordinates': [15.83333, -17.3]}",1961-01-01T00:00:00.000,,2400,,15.833330
+Valid,48.900000,Eichstädt,Fell,H5,7775,"{'type': 'Point', 'coordinates': [11.21667, 48.9]}",1785-01-01T00:00:00.000,,3000,,11.216670
+Valid,56.033330,Ekeby,Fell,H4,7776,"{'type': 'Point', 'coordinates': [13, 56.03333]}",1939-01-01T00:00:00.000,,3336,,13.000000
+Valid,28.266670,Ekh Khera,Fell,H6,7777,"{'type': 'Point', 'coordinates': [78.78333, 28.26667]}",1916-01-01T00:00:00.000,,840,,78.783330
+Valid,34.416670,El Idrissia,Fell,L6,7807,"{'type': 'Point', 'coordinates': [3.25, 34.41667]}",1989-01-01T00:00:00.000,,10000,,3.250000
+Valid,25.370000,El Paso de Aguila,Fell,H5,45977,"{'type': 'Point', 'coordinates': [-97.37, 25.37]}",1977-01-01T00:00:00.000,,17226,,-97.370000
+Valid,19.967220,El Tigre,Fell,L6,7819,"{'type': 'Point', 'coordinates': [-103.05167, 19.96722]}",1993-01-01T00:00:00.000,,5000,,-103.051670
+Valid,39.246670,Elbert,Fell,LL6,7822,"{'type': 'Point', 'coordinates': [-104.58817, 39.24667]}",1998-01-01T00:00:00.000,9,680.5,88,-104.588170
+Valid,50.183330,Elbogen,Fell,"Iron, IID",7823,"{'type': 'Point', 'coordinates': [12.73333, 50.18333]}",1400-01-01T00:00:00.000,,107000,,12.733330
+Valid,47.833330,Elenovka,Fell,L5,7824,"{'type': 'Point', 'coordinates': [37.66667, 47.83333]}",1951-01-01T00:00:00.000,,54640,,37.666670
+Valid,51.750000,Ellemeet,Fell,Diogenite,10019,"{'type': 'Point', 'coordinates': [4, 51.75]}",1925-01-01T00:00:00.000,,1470,,4.000000
+Valid,-29.466670,Emmaville,Fell,Eucrite-mmict,10033,"{'type': 'Point', 'coordinates': [151.61667, -29.46667]}",1900-01-01T00:00:00.000,,127,,151.616670
+Valid,30.300000,Enshi,Fell,H5,10038,"{'type': 'Point', 'coordinates': [109.5, 30.3]}",1974-01-01T00:00:00.000,,8000,,109.500000
+Valid,47.866670,Ensisheim,Fell,LL6,10039,"{'type': 'Point', 'coordinates': [7.35, 47.86667]}",1492-01-01T00:00:00.000,,127000,,7.350000
+Valid,48.183330,Épinal,Fell,H5,10041,"{'type': 'Point', 'coordinates': [6.46667, 48.18333]}",1822-01-01T00:00:00.000,,277,,6.466670
+Valid,19.033330,Erakot,Fell,CM2,10042,"{'type': 'Point', 'coordinates': [81.89167, 19.03333]}",1940-01-01T00:00:00.000,,113,,81.891670
+Valid,40.300000,Erevan,Fell,Howardite,10043,"{'type': 'Point', 'coordinates': [44.5, 40.3]}",1911-01-01T00:00:00.000,,107.2,,44.500000
+Valid,1.166670,Ergheo,Fell,L5,10044,"{'type': 'Point', 'coordinates': [44.16667, 1.16667]}",1889-01-01T00:00:00.000,,20000,,44.166670
+Valid,52.216670,Erxleben,Fell,H6,10049,"{'type': 'Point', 'coordinates': [11.25, 52.21667]}",1812-01-01T00:00:00.000,,2250,,11.250000
+Valid,46.250000,Esnandes,Fell,L6,10051,"{'type': 'Point', 'coordinates': [-1.1, 46.25]}",1837-01-01T00:00:00.000,,1500,,-1.100000
+Valid,2.883330,Essebi,Fell,C2-ung,10055,"{'type': 'Point', 'coordinates': [30.83333, 2.88333]}",1957-01-01T00:00:00.000,,500,,30.833330
+Valid,43.416670,Estherville,Fell,Mesosiderite-A3/4,10059,"{'type': 'Point', 'coordinates': [-94.83333, 43.41667]}",1879-01-01T00:00:00.000,16,320000,277,-94.833330
+Valid,39.750000,Farmington,Fell,L5,10074,"{'type': 'Point', 'coordinates': [-97.03333, 39.75]}",1890-01-01T00:00:00.000,17,89400,1300,-97.033330
+Valid,35.550000,Farmville,Fell,H4,10075,"{'type': 'Point', 'coordinates': [-77.53333, 35.55]}",1934-01-01T00:00:00.000,37,56000,2439,-77.533330
+Valid,44.383330,Favars,Fell,H5,10078,"{'type': 'Point', 'coordinates': [2.81667, 44.38333]}",1844-01-01T00:00:00.000,,1500,,2.816670
+Valid,36.050000,Fayetteville,Fell,H4,10079,"{'type': 'Point', 'coordinates': [-94.16667, 36.05]}",1934-01-01T00:00:00.000,15,2360,70,-94.166670
+Valid,36.883330,Feid Chair,Fell,H4,10080,"{'type': 'Point', 'coordinates': [8.45, 36.88333]}",1875-01-01T00:00:00.000,,380,,8.450000
+Valid,32.533330,Felix,Fell,CO3.3,10081,"{'type': 'Point', 'coordinates': [-87.16667, 32.53333]}",1900-01-01T00:00:00.000,29,3200,1631,-87.166670
+Valid,34.600000,Fenghsien-Ku,Fell,H5,10086,"{'type': 'Point', 'coordinates': [116.75, 34.6]}",1924-01-01T00:00:00.000,,82,,116.750000
+Valid,36.100000,Ferguson,Fell,OC,10088,"{'type': 'Point', 'coordinates': [-81.41667, 36.1]}",1889-01-01T00:00:00.000,37,220,2331,-81.416670
+Valid,43.181110,Fermo,Fell,H3-5,10091,"{'type': 'Point', 'coordinates': [13.75333, 43.18111]}",1996-01-01T00:00:00.000,,10200,,13.753330
+Valid,47.816670,Fisher,Fell,L6,10107,"{'type': 'Point', 'coordinates': [-96.85, 47.81667]}",1894-01-01T00:00:00.000,1,17600,385,-96.850000
+Valid,30.833330,Florence,Fell,H3,10111,"{'type': 'Point', 'coordinates': [-97.76667, 30.83333]}",1922-01-01T00:00:00.000,23,3640,807,-97.766670
+Valid,43.250000,Forest City,Fell,H5,10119,"{'type': 'Point', 'coordinates': [-93.66667, 43.25]}",1890-01-01T00:00:00.000,16,152000,1785,-93.666670
+Valid,-33.350000,Forest Vale,Fell,H4,10120,"{'type': 'Point', 'coordinates': [146.85833, -33.35]}",1942-01-01T00:00:00.000,,26000,,146.858330
+Valid,36.783330,Forksville,Fell,L6,10123,"{'type': 'Point', 'coordinates': [-78.08333, 36.78333]}",1924-01-01T00:00:00.000,40,6067,2839,-78.083330
+Valid,50.950000,Forsbach,Fell,H6,10163,"{'type': 'Point', 'coordinates': [7.31667, 50.95]}",1900-01-01T00:00:00.000,,240,,7.316670
+Valid,33.016670,Forsyth,Fell,L6,10164,"{'type': 'Point', 'coordinates': [-83.96667, 33.01667]}",1829-01-01T00:00:00.000,31,16300,1470,-83.966670
+Valid,28.250000,Fort Flatters,Fell,Stone-uncl,10166,"{'type': 'Point', 'coordinates': [7, 28.25]}",1944-01-01T00:00:00.000,,,,7.000000
+Valid,34.483330,Frankfort (stone),Fell,Howardite,10177,"{'type': 'Point', 'coordinates': [-87.83333, 34.48333]}",1868-01-01T00:00:00.000,29,650,99,-87.833330
+Valid,31.475560,Fuhe,Fell,L5,52412,"{'type': 'Point', 'coordinates': [113.56694, 31.47556]}",1945-01-01T00:00:00.000,,23000,,113.566940
+Valid,33.183330,Fukutomi,Fell,L5,10836,"{'type': 'Point', 'coordinates': [130.2, 33.18333]}",1882-01-01T00:00:00.000,,11620,,130.200000
+Valid,55.333330,Fünen,Fell,Stone-uncl,10838,"{'type': 'Point', 'coordinates': [10.33333, 55.33333]}",1654-01-01T00:00:00.000,,,,10.333330
+Valid,25.950000,Futtehpur,Fell,L6,10839,"{'type': 'Point', 'coordinates': [80.81667, 25.95]}",1822-01-01T00:00:00.000,,4000,,80.816670
+Valid,32.900000,Fuyang,Fell,Stone-uncl,10840,"{'type': 'Point', 'coordinates': [115.9, 32.9]}",1977-01-01T00:00:00.000,,2500,,115.900000
+Valid,44.300000,Galapian,Fell,H6,10846,"{'type': 'Point', 'coordinates': [0.4, 44.3]}",1826-01-01T00:00:00.000,,132.69999999999999,,0.400000
+Valid,7.050000,Galim (a),Fell,LL6,10848,"{'type': 'Point', 'coordinates': [12.43333, 7.05]}",1952-01-01T00:00:00.000,,36.1,,12.433330
+Valid,7.050000,Galim (b),Fell,EH3/4-an,10849,"{'type': 'Point', 'coordinates': [12.43333, 7.05]}",1952-01-01T00:00:00.000,,28,,12.433330
+Valid,51.683330,Galkiv,Fell,H4,10850,"{'type': 'Point', 'coordinates': [30.78333, 51.68333]}",1995-01-01T00:00:00.000,,5000,,30.783330
+Valid,27.350000,Gambat,Fell,L6,10851,"{'type': 'Point', 'coordinates': [68.53333, 27.35]}",1897-01-01T00:00:00.000,,6400,,68.533330
+Valid,11.650000,Gao-Guenie,Fell,H5,10854,"{'type': 'Point', 'coordinates': [-2.18333, 11.65]}",1960-01-01T00:00:00.000,,,,-2.183330
+Valid,27.883330,Garhi Yasin,Fell,"Iron, IIE",10860,"{'type': 'Point', 'coordinates': [68.53333, 27.88333]}",1917-01-01T00:00:00.000,,380,,68.533330
+Valid,41.683330,Garland,Fell,Diogenite-pm,10861,"{'type': 'Point', 'coordinates': [-112.13333, 41.68333]}",1950-01-01T00:00:00.000,13,102,2985,-112.133330
+Valid,12.850000,Gashua,Fell,L6,44882,"{'type': 'Point', 'coordinates': [11.03333, 12.85]}",1984-01-01T00:00:00.000,,4162,,11.033330
+Valid,14.150830,Gasseltepaoua,Fell,H5,10866,"{'type': 'Point', 'coordinates': [-2.04167, 14.15083]}",2000-01-01T00:00:00.000,,,,-2.041670
+Valid,12.916670,Geidam,Fell,H5,10870,"{'type': 'Point', 'coordinates': [11.91667, 12.91667]}",1950-01-01T00:00:00.000,,725,,11.916670
+Valid,35.533330,Gifu,Fell,L6,10914,"{'type': 'Point', 'coordinates': [136.88333, 35.53333]}",1909-01-01T00:00:00.000,,14290,,136.883330
+Valid,37.316670,Girgenti,Fell,L6,10917,"{'type': 'Point', 'coordinates': [13.56667, 37.31667]}",1853-01-01T00:00:00.000,,18000,,13.566670
+Valid,9.600000,Git-Git,Fell,L6,10919,"{'type': 'Point', 'coordinates': [9.91667, 9.6]}",1947-01-01T00:00:00.000,,480,,9.916670
+Valid,52.200000,Glanerbrug,Fell,L/LL5,10923,"{'type': 'Point', 'coordinates': [6.86667, 52.2]}",1990-01-01T00:00:00.000,,670,,6.866670
+Valid,-7.250000,Glanggang,Fell,H5-6,10924,"{'type': 'Point', 'coordinates': [107.7, -7.25]}",1939-01-01T00:00:00.000,,1303,,107.700000
+Valid,57.350000,Glasatovo,Fell,H4,10926,"{'type': 'Point', 'coordinates': [37.61667, 57.35]}",1918-01-01T00:00:00.000,,152000,,37.616670
+Valid,52.459720,Glatton,Fell,L6,10930,"{'type': 'Point', 'coordinates': [-0.3, 52.45972]}",1991-01-01T00:00:00.000,,767,,-0.300000
+Valid,50.666670,Gnadenfrei,Fell,H5,10936,"{'type': 'Point', 'coordinates': [16.76667, 50.66667]}",1879-01-01T00:00:00.000,,1750,,16.766670
+Valid,24.233330,Gopalpur,Fell,H6,10948,"{'type': 'Point', 'coordinates': [89.05, 24.23333]}",1865-01-01T00:00:00.000,,1600,,89.050000
+Valid,48.283330,Gorlovka,Fell,H3.7,10949,"{'type': 'Point', 'coordinates': [38.08333, 48.28333]}",1974-01-01T00:00:00.000,,3618,,38.083330
+Valid,42.900000,Granes,Fell,L6,10956,"{'type': 'Point', 'coordinates': [2.25, 42.9]}",1964-01-01T00:00:00.000,,9000,,2.250000
+Valid,60.666670,Grefsheim,Fell,L5,11196,"{'type': 'Point', 'coordinates': [11, 60.66667]}",1976-01-01T00:00:00.000,,45.5,,11.000000
+Valid,43.200000,Grimsby,Fell,H5,50911,"{'type': 'Point', 'coordinates': [-79.61667, 43.2]}",2009-01-01T00:00:00.000,,215,,-79.616670
+Valid,43.666670,Grosnaja,Fell,CV3,11206,"{'type': 'Point', 'coordinates': [45.38333, 43.66667]}",1861-01-01T00:00:00.000,,3500,,45.383330
+Valid,49.266670,Gross-Divina,Fell,H5,11207,"{'type': 'Point', 'coordinates': [18.71667, 49.26667]}",1837-01-01T00:00:00.000,,10500,,18.716670
+Valid,46.350000,Grossliebenthal,Fell,L6,11208,"{'type': 'Point', 'coordinates': [30.58333, 46.35]}",1881-01-01T00:00:00.000,,8000,,30.583330
+Valid,51.933330,Grüneberg,Fell,H4,11426,"{'type': 'Point', 'coordinates': [15.5, 51.93333]}",1841-01-01T00:00:00.000,,1000,,15.500000
+Valid,52.866670,Grzempach,Fell,H5,11429,"{'type': 'Point', 'coordinates': [16.63333, 52.86667]}",1910-01-01T00:00:00.000,,690,,16.633330
+Valid,-33.000000,Gualeguaychú,Fell,H6,11432,"{'type': 'Point', 'coordinates': [-58.61667, -33]}",1932-01-01T00:00:00.000,,22000,,-58.616670
+Valid,39.804170,Guangmingshan,Fell,H5,11435,"{'type': 'Point', 'coordinates': [122.76389, 39.80417]}",1996-01-01T00:00:00.000,,2910,,122.763890
+Valid,24.100000,Guangnan,Fell,L6,11436,"{'type': 'Point', 'coordinates': [105, 24.1]}",1983-01-01T00:00:00.000,,,,105.000000
+Valid,37.100000,Guangrao,Fell,L6,11437,"{'type': 'Point', 'coordinates': [118.4, 37.1]}",1980-01-01T00:00:00.000,,1900,,118.400000
+Valid,38.733330,Guareña,Fell,H6,11439,"{'type': 'Point', 'coordinates': [-6.01667, 38.73333]}",1892-01-01T00:00:00.000,,39000,,-6.016670
+Valid,43.766670,Guêa,Fell,Stone-uncl,11440,"{'type': 'Point', 'coordinates': [20.23333, 43.76667]}",1891-01-01T00:00:00.000,,1915,,20.233330
+Valid,13.500000,Guibga,Fell,L5,11442,"{'type': 'Point', 'coordinates': [-0.68333, 13.5]}",1972-01-01T00:00:00.000,,288,,-0.683330
+Valid,9.916670,Guidder,Fell,LL5,11443,"{'type': 'Point', 'coordinates': [13.98333, 9.91667]}",1949-01-01T00:00:00.000,,968,,13.983330
+Valid,22.983330,Gujargaon,Fell,H5,11448,"{'type': 'Point', 'coordinates': [76.05, 22.98333]}",1982-01-01T00:00:00.000,,2449,,76.050000
+Valid,11.491670,Gujba,Fell,CBa,11449,"{'type': 'Point', 'coordinates': [11.65833, 11.49167]}",1984-01-01T00:00:00.000,,100000,,11.658330
+Valid,42.900000,Gumoschnik,Fell,H5,11450,"{'type': 'Point', 'coordinates': [24.7, 42.9]}",1904-01-01T00:00:00.000,,5700,,24.700000
+Valid,13.783330,Gurram Konda,Fell,L6,11464,"{'type': 'Point', 'coordinates': [78.56667, 13.78333]}",1814-01-01T00:00:00.000,,28,,78.566670
+Valid,9.366670,Gursum,Fell,H4/5,11465,"{'type': 'Point', 'coordinates': [42.41667, 9.36667]}",1981-01-01T00:00:00.000,,34650,,42.416670
+Valid,51.916670,Gütersloh,Fell,H3/4,11466,"{'type': 'Point', 'coordinates': [8.38333, 51.91667]}",1851-01-01T00:00:00.000,,1000,,8.383330
+Valid,35.000000,Gyokukei,Fell,OC,11467,"{'type': 'Point', 'coordinates': [127.5, 35]}",1930-01-01T00:00:00.000,,1320,,127.500000
+Valid,35.650000,Hachi-oji,Fell,H?,11468,"{'type': 'Point', 'coordinates': [139.33333, 35.65]}",1817-01-01T00:00:00.000,,0.2,,139.333330
+Valid,50.316670,Hainaut,Fell,H3-6,11472,"{'type': 'Point', 'coordinates': [3.73333, 50.31667]}",1934-01-01T00:00:00.000,,9000,,3.733330
+Valid,57.816670,Hallingeberg,Fell,L3.4,11479,"{'type': 'Point', 'coordinates': [16.23333, 57.81667]}",1944-01-01T00:00:00.000,,1456,,16.233330
+Valid,41.383330,Hamlet,Fell,LL4,11485,"{'type': 'Point', 'coordinates': [-86.6, 41.38333]}",1959-01-01T00:00:00.000,35,3710,1205,-86.600000
+Valid,26.800000,Haraiya,Fell,Eucrite-mmict,11824,"{'type': 'Point', 'coordinates': [82.53333, 26.8]}",1878-01-01T00:00:00.000,,1000,,82.533330
+Valid,28.383330,Haripura,Fell,CM2,11829,"{'type': 'Point', 'coordinates': [75.78333, 28.38333]}",1921-01-01T00:00:00.000,,315,,75.783330
+Valid,32.675000,Harleton,Fell,L6,11830,"{'type': 'Point', 'coordinates': [-94.51167, 32.675]}",1961-01-01T00:00:00.000,23,8360,2025,-94.511670
+Valid,38.250000,Harrison County,Fell,L6,11842,"{'type': 'Point', 'coordinates': [-86.16667, 38.25]}",1859-01-01T00:00:00.000,35,680,1855,-86.166670
+Valid,35.294500,Hashima,Fell,H4,11848,"{'type': 'Point', 'coordinates': [136.70033, 35.2945]}",1910-01-01T00:00:00.000,,1110.5999999999999,,136.700330
+Valid,28.950000,Hassi-Jekna,Fell,"Iron, IAB-sHL",11852,"{'type': 'Point', 'coordinates': [0.81667, 28.95]}",1890-01-01T00:00:00.000,,1250,,0.816670
+Valid,51.650000,Hatford,Fell,Stone-uncl,11855,"{'type': 'Point', 'coordinates': [-1.51667, 51.65]}",1628-01-01T00:00:00.000,,29000,,-1.516670
+Valid,60.245560,Haverö,Fell,Ureilite,11859,"{'type': 'Point', 'coordinates': [22.06194, 60.24556]}",1971-01-01T00:00:00.000,,1544,,22.061940
+Valid,55.466670,Hedeskoga,Fell,H5,11869,"{'type': 'Point', 'coordinates': [13.78333, 55.46667]}",1922-01-01T00:00:00.000,,3500,,13.783330
+Valid,27.333330,Hedjaz,Fell,L3.7-6,11870,"{'type': 'Point', 'coordinates': [35.66667, 27.33333]}",1910-01-01T00:00:00.000,,6100,,35.666670
+Valid,10.000000,Heredia,Fell,H5,11875,"{'type': 'Point', 'coordinates': [-84.1, 10]}",1857-01-01T00:00:00.000,,1000,,-84.100000
+Valid,59.850000,Hessle,Fell,H5,11878,"{'type': 'Point', 'coordinates': [17.66667, 59.85]}",1869-01-01T00:00:00.000,,20000,,17.666670
+Valid,33.600000,Higashi-koen,Fell,H5,11883,"{'type': 'Point', 'coordinates': [130.43333, 33.6]}",1897-01-01T00:00:00.000,,750,,130.433330
+Valid,55.900000,High Possil,Fell,L6,11884,"{'type': 'Point', 'coordinates': [-4.23333, 55.9]}",1804-01-01T00:00:00.000,,4500,,-4.233330
+Valid,34.450000,Hiroshima,Fell,H5,11889,"{'type': 'Point', 'coordinates': [132.38333, 34.45]}",2003-01-01T00:00:00.000,,414,,132.383330
+Valid,1.345000,Hoima,Fell,H6,44714,"{'type': 'Point', 'coordinates': [31.47278, 1.345]}",2003-01-01T00:00:00.000,,167.7,,31.472780
+Valid,64.433330,Hökmark,Fell,L4,11893,"{'type': 'Point', 'coordinates': [21.2, 64.43333]}",1954-01-01T00:00:00.000,,305.5,,21.200000
+Valid,34.900000,Holbrook,Fell,L/LL6,11894,"{'type': 'Point', 'coordinates': [-110.18333, 34.9]}",1912-01-01T00:00:00.000,7,220000,990,-110.183330
+Valid,9.066670,Holetta,Fell,Stone-uncl,11895,"{'type': 'Point', 'coordinates': [38.41667, 9.06667]}",1923-01-01T00:00:00.000,,1415,,38.416670
+Valid,41.800000,Homestead,Fell,L5,11901,"{'type': 'Point', 'coordinates': [-91.86667, 41.8]}",1875-01-01T00:00:00.000,16,230000,284,-91.866670
+Valid,21.300000,Honolulu,Fell,L5,11904,"{'type': 'Point', 'coordinates': [-157.86667, 21.3]}",1825-01-01T00:00:00.000,4,2420,1657,-157.866670
+Valid,35.666670,Hotse,Fell,L6,11913,"{'type': 'Point', 'coordinates': [115.5, 35.66667]}",1956-01-01T00:00:00.000,,180,,115.500000
+Valid,39.350000,Hoxie,Fell,OC,11915,"{'type': 'Point', 'coordinates': [-100.45, 39.35]}",1963-01-01T00:00:00.000,17,266.10000000000002,1293,-100.450000
+Valid,46.100000,Hraschina,Fell,"Iron, IID",11916,"{'type': 'Point', 'coordinates': [16.33333, 46.1]}",1751-01-01T00:00:00.000,,49000,,16.333330
+Valid,26.464690,Huaxi,Fell,H5,54719,"{'type': 'Point', 'coordinates': [106.63241, 26.46469]}",2010-01-01T00:00:00.000,,1600,,106.632410
+Valid,50.300000,Hungen,Fell,H6,11986,"{'type': 'Point', 'coordinates': [8.91667, 50.3]}",1877-01-01T00:00:00.000,,112,,8.916670
+Valid,61.183330,Hvittis,Fell,EL6,11989,"{'type': 'Point', 'coordinates': [22.68333, 61.18333]}",1901-01-01T00:00:00.000,,14000,,22.683330
+Valid,52.283330,Ibbenbüren,Fell,Diogenite,11992,"{'type': 'Point', 'coordinates': [7.7, 52.28333]}",1870-01-01T00:00:00.000,,2000,,7.700000
+Valid,-20.000000,Ibitira,Fell,Eucrite-mmict,11993,"{'type': 'Point', 'coordinates': [-45, -20]}",1957-01-01T00:00:00.000,,2500,,-45.000000
+Valid,38.000000,Ibrisim,Fell,OC,11994,"{'type': 'Point', 'coordinates': [35, 38]}",1949-01-01T00:00:00.000,,,,35.000000
+Valid,58.200000,Ichkala,Fell,H6,11995,"{'type': 'Point', 'coordinates': [82.93333, 58.2]}",1936-01-01T00:00:00.000,,3973,,82.933330
+Valid,-32.100000,Idutywa,Fell,H5,12000,"{'type': 'Point', 'coordinates': [28.33333, -32.1]}",1956-01-01T00:00:00.000,,3457,,28.333330
+Valid,-23.200000,Iguaracu,Fell,H5,12003,"{'type': 'Point', 'coordinates': [-51.83333, -23.2]}",1977-01-01T00:00:00.000,,1200,,-51.833330
+Valid,-6.033330,Ijopega,Fell,H6,12004,"{'type': 'Point', 'coordinates': [145.36667, -6.03333]}",1975-01-01T00:00:00.000,,7330,,145.366670
+Valid,39.750000,Indarch,Fell,EH4,12027,"{'type': 'Point', 'coordinates': [46.66667, 39.75]}",1891-01-01T00:00:00.000,,27000,,46.666670
+Valid,39.083330,Independence,Fell,L6,12028,"{'type': 'Point', 'coordinates': [-94.4, 39.08333]}",1917-01-01T00:00:00.000,18,880,525,-94.400000
+Valid,41.000000,Inner Mongolia,Fell,L6,12037,"{'type': 'Point', 'coordinates': [112, 41]}",1963-01-01T00:00:00.000,,3000,,112.000000
+Valid,53.415000,Innisfree,Fell,L5,12039,"{'type': 'Point', 'coordinates': [-111.3375, 53.415]}",1977-01-01T00:00:00.000,,4576,,-111.337500
+Valid,-25.500000,Ipiranga,Fell,H6,12043,"{'type': 'Point', 'coordinates': [-54.5, -25.5]}",1972-01-01T00:00:00.000,,7000,,-54.500000
+Valid,-8.933330,Ishinga,Fell,H,12049,"{'type': 'Point', 'coordinates': [33.8, -8.93333]}",1954-01-01T00:00:00.000,,1300,,33.800000
+Valid,-31.183330,Isthilart,Fell,H5,12053,"{'type': 'Point', 'coordinates': [-57.95, -31.18333]}",1928-01-01T00:00:00.000,,3050,,-57.950000
+Valid,-3.400000,Itapicuru-Mirim,Fell,H5,12056,"{'type': 'Point', 'coordinates': [-44.33333, -3.4]}",1879-01-01T00:00:00.000,,2024,,-44.333330
+Valid,26.590830,Itqiy,Fell,EH7-an,12058,"{'type': 'Point', 'coordinates': [-12.95217, 26.59083]}",1990-01-01T00:00:00.000,,4720,,-12.952170
+Valid,-8.416670,Ivuna,Fell,CI1,12063,"{'type': 'Point', 'coordinates': [32.43333, -8.41667]}",1938-01-01T00:00:00.000,,704.5,,32.433330
+Valid,-32.500000,Jackalsfontein,Fell,L6,12065,"{'type': 'Point', 'coordinates': [21.9, -32.5]}",1903-01-01T00:00:00.000,,48000,,21.900000
+Valid,26.750000,Jajh deh Kot Lalu,Fell,EL6,12067,"{'type': 'Point', 'coordinates': [68.41667, 26.75]}",1926-01-01T00:00:00.000,,973,,68.416670
+Valid,,Jalanash,Fell,Ureilite,12068,,1990-01-01T00:00:00.000,,700,,
+Valid,31.000000,Jalandhar,Fell,Iron,12069,"{'type': 'Point', 'coordinates': [75, 31]}",1621-01-01T00:00:00.000,,1967,,75.000000
+Valid,18.750000,Jamkheir,Fell,H6,12072,"{'type': 'Point', 'coordinates': [75.33333, 18.75]}",1866-01-01T00:00:00.000,,22,,75.333330
+Valid,39.700000,Jartai,Fell,L6,12074,"{'type': 'Point', 'coordinates': [105.8, 39.7]}",1979-01-01T00:00:00.000,,20500,,105.800000
+Valid,43.833330,Jelica,Fell,LL6,12078,"{'type': 'Point', 'coordinates': [20.44167, 43.83333]}",1889-01-01T00:00:00.000,,34000,,20.441670
+Valid,,Jemlapur,Fell,L6,12079,,1901-01-01T00:00:00.000,,450,,
+Valid,46.421370,Jesenice,Fell,L6,51589,"{'type': 'Point', 'coordinates': [14.05217, 46.42137]}",2009-01-01T00:00:00.000,,3667,,14.052170
+Valid,31.300000,Jhung,Fell,L5,12085,"{'type': 'Point', 'coordinates': [72.38333, 31.3]}",1873-01-01T00:00:00.000,,5900,,72.383330
+Valid,31.916670,Jiange,Fell,H5,12086,"{'type': 'Point', 'coordinates': [104.91667, 31.91667]}",1964-01-01T00:00:00.000,,222,,104.916670
+Valid,30.808330,Jianshi,Fell,"Iron, IIIAB",12087,"{'type': 'Point', 'coordinates': [109.5, 30.80833]}",1890-01-01T00:00:00.000,,600000,,109.500000
+Valid,44.050000,Jilin,Fell,H5,12171,"{'type': 'Point', 'coordinates': [126.16667, 44.05]}",1976-01-01T00:00:00.000,,4000000,,126.166670
+Valid,22.680000,Jodiya,Fell,L5,47362,"{'type': 'Point', 'coordinates': [70.31333, 22.68]}",2006-01-01T00:00:00.000,,100,,70.313330
+Valid,55.700000,Jodzie,Fell,Howardite,12173,"{'type': 'Point', 'coordinates': [24.4, 55.7]}",1877-01-01T00:00:00.000,,30,,24.400000
+Valid,40.350000,Johnstown,Fell,Diogenite,12198,"{'type': 'Point', 'coordinates': [-104.9, 40.35]}",1924-01-01T00:00:00.000,9,40300,1072,-104.900000
+Valid,-11.850000,Jolomba,Fell,LL6,12199,"{'type': 'Point', 'coordinates': [15.83333, -11.85]}",1974-01-01T00:00:00.000,,483,,15.833330
+Valid,45.433330,Jonzac,Fell,Eucrite-mmict,12202,"{'type': 'Point', 'coordinates': [-0.45, 45.43333]}",1819-01-01T00:00:00.000,,5000,,-0.450000
+Valid,35.500000,Juancheng,Fell,H5,12203,"{'type': 'Point', 'coordinates': [115.41667, 35.5]}",1997-01-01T00:00:00.000,,100000,,115.416670
+Valid,12.850000,Judesegeri,Fell,H6,12207,"{'type': 'Point', 'coordinates': [76.8, 12.85]}",1876-01-01T00:00:00.000,,680,,76.800000
+Valid,-7.716670,Jumapalo,Fell,L6,12209,"{'type': 'Point', 'coordinates': [111.2, -7.71667]}",1984-01-01T00:00:00.000,,32490,,111.200000
+Valid,35.200000,Junan,Fell,L6,12210,"{'type': 'Point', 'coordinates': [118.8, 35.2]}",1976-01-01T00:00:00.000,,950,,118.800000
+Valid,38.740280,Juromenha,Fell,"Iron, IIIAB",12213,"{'type': 'Point', 'coordinates': [-7.27, 38.74028]}",1968-01-01T00:00:00.000,,25250,,-7.270000
+Valid,44.716670,Juvinas,Fell,Eucrite-mmict,12214,"{'type': 'Point', 'coordinates': [4.3, 44.71667]}",1821-01-01T00:00:00.000,,91000,,4.300000
+Valid,47.350000,Kaba,Fell,CV3,12218,"{'type': 'Point', 'coordinates': [21.3, 47.35]}",1857-01-01T00:00:00.000,,3000,,21.300000
+Valid,11.850000,Kabo,Fell,H4,12220,"{'type': 'Point', 'coordinates': [8.21667, 11.85]}",1971-01-01T00:00:00.000,,13400,,8.216670
+Valid,27.083330,Kadonah,Fell,H6,12221,"{'type': 'Point', 'coordinates': [78.33333, 27.08333]}",1822-01-01T00:00:00.000,,89,,78.333330
+Valid,27.250000,Kaee,Fell,H5,12222,"{'type': 'Point', 'coordinates': [79.96667, 27.25]}",1838-01-01T00:00:00.000,,230,,79.966670
+Valid,49.866670,Kagarlyk,Fell,L6,12227,"{'type': 'Point', 'coordinates': [30.83333, 49.86667]}",1908-01-01T00:00:00.000,,1900,,30.833330
+Valid,15.000000,Kaidun,Fell,CR2,12228,"{'type': 'Point', 'coordinates': [48.3, 15]}",1980-01-01T00:00:00.000,,2000,,48.300000
+Valid,55.433330,Kainsaz,Fell,CO3.2,12229,"{'type': 'Point', 'coordinates': [53.25, 55.43333]}",1937-01-01T00:00:00.000,,200000,,53.250000
+Valid,12.383330,Kakangari,Fell,K3,12230,"{'type': 'Point', 'coordinates': [78.51667, 12.38333]}",1890-01-01T00:00:00.000,,350,,78.516670
+Valid,45.133330,Kakowa,Fell,L6,12231,"{'type': 'Point', 'coordinates': [21.66667, 45.13333]}",1858-01-01T00:00:00.000,,577,,21.666670
+Valid,-6.833330,Kalaba,Fell,H4,12232,"{'type': 'Point', 'coordinates': [29.5, -6.83333]}",1951-01-01T00:00:00.000,,950,,29.500000
+Valid,17.833330,Kalumbi,Fell,L6,12236,"{'type': 'Point', 'coordinates': [73.98333, 17.83333]}",1879-01-01T00:00:00.000,,4500,,73.983330
+Valid,26.033330,Kamalpur,Fell,L6,12238,"{'type': 'Point', 'coordinates': [81.46667, 26.03333]}",1942-01-01T00:00:00.000,,2770,,81.466670
+Valid,36.041670,Kamiomi,Fell,H5,12240,"{'type': 'Point', 'coordinates': [139.95667, 36.04167]}",1913-01-01T00:00:00.000,,448,,139.956670
+Valid,14.183330,Kamsagar,Fell,L6,12241,"{'type': 'Point', 'coordinates': [75.8, 14.18333]}",1902-01-01T00:00:00.000,,1293,,75.800000
+Valid,31.600000,Kandahar (Afghanistan),Fell,L6,12243,"{'type': 'Point', 'coordinates': [65.78333, 31.6]}",1959-01-01T00:00:00.000,,299,,65.783330
+Valid,-7.000000,Kangean,Fell,H5,12245,"{'type': 'Point', 'coordinates': [115.5, -7]}",1908-01-01T00:00:00.000,,1630,,115.500000
+Valid,32.083330,Kangra Valley,Fell,H5,12246,"{'type': 'Point', 'coordinates': [76.3, 32.08333]}",1897-01-01T00:00:00.000,,400,,76.300000
+Valid,4.700000,Kapoeta,Fell,Howardite,12251,"{'type': 'Point', 'coordinates': [33.63333, 4.7]}",1942-01-01T00:00:00.000,,11355,,33.633330
+Valid,20.339160,Kaprada,Fell,L5/6,47357,"{'type': 'Point', 'coordinates': [73.22329, 20.33916]}",2004-01-01T00:00:00.000,,1600,,73.223290
+Valid,42.450000,Kaptal-Aryk,Fell,L6,12253,"{'type': 'Point', 'coordinates': [73.36667, 42.45]}",1937-01-01T00:00:00.000,,3500,,73.366670
+Valid,47.216670,Karakol,Fell,LL6,12256,"{'type': 'Point', 'coordinates': [81.01667, 47.21667]}",1840-01-01T00:00:00.000,,3000,,81.016670
+Valid,-3.500000,Karatu,Fell,LL6,12258,"{'type': 'Point', 'coordinates': [35.58333, -3.5]}",1963-01-01T00:00:00.000,,2220,,35.583330
+Valid,12.900000,Karewar,Fell,L6,12260,"{'type': 'Point', 'coordinates': [7.15, 12.9]}",1949-01-01T00:00:00.000,,180,,7.150000
+Valid,27.800000,Karkh,Fell,L6,12262,"{'type': 'Point', 'coordinates': [67.16667, 27.8]}",1905-01-01T00:00:00.000,,22000,,67.166670
+Valid,31.583330,Karloowala,Fell,L6,12263,"{'type': 'Point', 'coordinates': [71.6, 31.58333]}",1955-01-01T00:00:00.000,,2950,,71.600000
+Valid,-35.083330,Karoonda,Fell,CK4,12264,"{'type': 'Point', 'coordinates': [139.91667, -35.08333]}",1930-01-01T00:00:00.000,,41730,,139.916670
+Valid,35.366670,Kasamatsu,Fell,H,12266,"{'type': 'Point', 'coordinates': [136.76667, 35.36667]}",1938-01-01T00:00:00.000,,710,,136.766670
+Valid,29.583330,Kasauli,Fell,H4,30740,"{'type': 'Point', 'coordinates': [77.58333, 29.58333]}",2003-01-01T00:00:00.000,,16820,,77.583330
+Valid,11.333330,Katagum,Fell,L6,35465,"{'type': 'Point', 'coordinates': [10.08333, 11.33333]}",1999-01-01T00:00:00.000,,1500,,10.083330
+Valid,25.143330,Kavarpura,Fell,"Iron, IIE-an",47351,"{'type': 'Point', 'coordinates': [75.81333, 25.14333]}",2006-01-01T00:00:00.000,,6800,,75.813330
+Valid,39.263330,Kayakent,Fell,"Iron, IIIAB",12268,"{'type': 'Point', 'coordinates': [31.78, 39.26333]}",1961-01-01T00:00:00.000,,85000,,31.780000
+Valid,-7.750000,Kediri,Fell,L4,12270,"{'type': 'Point', 'coordinates': [112.01667, -7.75]}",1940-01-01T00:00:00.000,,3300,,112.016670
+Valid,36.541940,Kemer,Fell,L4,53654,"{'type': 'Point', 'coordinates': [29.41822, 36.54194]}",2008-01-01T00:00:00.000,,5760,,29.418220
+Valid,29.450000,Kendleton,Fell,L4,12275,"{'type': 'Point', 'coordinates': [-96, 29.45]}",1939-01-01T00:00:00.000,23,6937,3190,-96.000000
+Valid,20.462500,Kendrapara,Fell,H4-5,12276,"{'type': 'Point', 'coordinates': [86.70278, 20.4625]}",2003-01-01T00:00:00.000,,6669.2,,86.702780
+Valid,48.400000,Kerilis,Fell,H5,12282,"{'type': 'Point', 'coordinates': [-3.3, 48.4]}",1874-01-01T00:00:00.000,,5000,,-3.300000
+Valid,48.116670,Kernouve,Fell,H6,12284,"{'type': 'Point', 'coordinates': [-3.08333, 48.11667]}",1869-01-01T00:00:00.000,,80000,,-3.083330
+Valid,38.983330,Kesen,Fell,H4,12286,"{'type': 'Point', 'coordinates': [141.61667, 38.98333]}",1850-01-01T00:00:00.000,,135000,,141.616670
+Valid,29.533330,Khairpur,Fell,EL6,12288,"{'type': 'Point', 'coordinates': [72.3, 29.53333]}",1873-01-01T00:00:00.000,,13600,,72.300000
+Valid,25.550000,Khanpur,Fell,LL5,12289,"{'type': 'Point', 'coordinates': [83.11667, 25.55]}",1932-01-01T00:00:00.000,,3698,,83.116670
+Valid,50.625000,Kharkov,Fell,L6,12291,"{'type': 'Point', 'coordinates': [35.075, 50.625]}",1787-01-01T00:00:00.000,,1500,,35.075000
+Valid,26.950000,Kheragur,Fell,L6,12294,"{'type': 'Point', 'coordinates': [77.88333, 26.95]}",1860-01-01T00:00:00.000,,450,,77.883330
+Valid,28.016670,Khetri,Fell,H6,12296,"{'type': 'Point', 'coordinates': [75.81667, 28.01667]}",1867-01-01T00:00:00.000,,100,,75.816670
+Valid,56.750000,Khmelevka,Fell,L5,12297,"{'type': 'Point', 'coordinates': [75.33333, 56.75]}",1929-01-01T00:00:00.000,,6109,,75.333330
+Valid,25.100000,Khohar,Fell,L3.6,12298,"{'type': 'Point', 'coordinates': [81.53333, 25.1]}",1910-01-01T00:00:00.000,,9700,,81.533330
+Valid,16.000000,Khor Temiki,Fell,Aubrite,12299,"{'type': 'Point', 'coordinates': [36, 16]}",1932-01-01T00:00:00.000,,3200,,36.000000
+Valid,14.000000,Kidairat,Fell,H6,12300,"{'type': 'Point', 'coordinates': [28, 14]}",1983-01-01T00:00:00.000,,100000,,28.000000
+Valid,54.400000,Kiel,Fell,L6,12301,"{'type': 'Point', 'coordinates': [10.15, 54.4]}",1962-01-01T00:00:00.000,,737.6,,10.150000
+Valid,16.583330,Kiffa,Fell,H5,12303,"{'type': 'Point', 'coordinates': [-11.33333, 16.58333]}",1970-01-01T00:00:00.000,,1500,,-11.333330
+Valid,36.850000,Kijima (1906),Fell,Stone-uncl,12305,"{'type': 'Point', 'coordinates': [138.38333, 36.85]}",1906-01-01T00:00:00.000,,331,,138.383330
+Valid,55.000000,Kikino,Fell,H6,12306,"{'type': 'Point', 'coordinates': [34, 55]}",1809-01-01T00:00:00.000,,195,,34.000000
+Valid,12.766670,Kilabo,Fell,LL6,12307,"{'type': 'Point', 'coordinates': [9.8, 12.76667]}",2002-01-01T00:00:00.000,,19000,,9.800000
+Valid,43.583330,Kilbourn,Fell,H5,12308,"{'type': 'Point', 'coordinates': [-89.6, 43.58333]}",1911-01-01T00:00:00.000,41,772,2971,-89.600000
+Valid,54.666670,Killeter,Fell,H6,12309,"{'type': 'Point', 'coordinates': [-7.66667, 54.66667]}",1844-01-01T00:00:00.000,,140,,-7.666670
+Valid,11.633330,Kingai,Fell,H6,12316,"{'type': 'Point', 'coordinates': [24.68333, 11.63333]}",1967-01-01T00:00:00.000,,67.400000000000006,,24.683330
+Valid,30.750000,Kirbyville,Fell,Eucrite-mmict,12321,"{'type': 'Point', 'coordinates': [-95.95, 30.75]}",1906-01-01T00:00:00.000,23,97.7,2018,-95.950000
+Valid,48.166670,Kisvarsány,Fell,L6,12325,"{'type': 'Point', 'coordinates': [22.30833, 48.16667]}",1914-01-01T00:00:00.000,,1550,,22.308330
+Valid,43.383330,Kitchener,Fell,L6,12326,"{'type': 'Point', 'coordinates': [-80.38333, 43.38333]}",1998-01-01T00:00:00.000,,202.6,,-80.383330
+Valid,51.600000,Klein-Wenden,Fell,H6,12332,"{'type': 'Point', 'coordinates': [10.8, 51.6]}",1843-01-01T00:00:00.000,,3250,,10.800000
+Valid,48.900000,Knyahinya,Fell,L/LL5,12335,"{'type': 'Point', 'coordinates': [22.4, 48.9]}",1866-01-01T00:00:00.000,,500000,,22.400000
+Valid,34.733330,Kobe,Fell,CK4,12336,"{'type': 'Point', 'coordinates': [135.16667, 34.73333]}",1999-01-01T00:00:00.000,,136,,135.166670
+Valid,34.300000,Kokubunji,Fell,L6,12342,"{'type': 'Point', 'coordinates': [133.95, 34.3]}",1986-01-01T00:00:00.000,,11510,,133.950000
+Valid,35.733330,Komagome,Fell,Iron,12343,"{'type': 'Point', 'coordinates': [139.75, 35.73333]}",1926-01-01T00:00:00.000,,238,,139.750000
+Valid,42.516670,Konovo,Fell,LL5,12344,"{'type': 'Point', 'coordinates': [26.16667, 42.51667]}",1931-01-01T00:00:00.000,,90,,26.166670
+Valid,48.763670,Košice,Fell,H5,53810,"{'type': 'Point', 'coordinates': [21.17633, 48.76367]}",2010-01-01T00:00:00.000,,4300,,21.176330
+Valid,49.326940,Krähenberg,Fell,LL5,12353,"{'type': 'Point', 'coordinates': [7.46472, 49.32694]}",1869-01-01T00:00:00.000,,16500,,7.464720
+Valid,54.033330,Krasnoi-Ugol,Fell,L6,12355,"{'type': 'Point', 'coordinates': [40.9, 54.03333]}",1829-01-01T00:00:00.000,,2440,,40.900000
+Valid,54.333330,Krasnyi Klyuch,Fell,H5,12357,"{'type': 'Point', 'coordinates': [56.08333, 54.33333]}",1946-01-01T00:00:00.000,,4000,,56.083330
+Valid,56.800000,Krutikha,Fell,OC,12363,"{'type': 'Point', 'coordinates': [77, 56.8]}",1906-01-01T00:00:00.000,,845.2,,77.000000
+Valid,47.833330,Krymka,Fell,LL3.2,12364,"{'type': 'Point', 'coordinates': [30.76667, 47.83333]}",1946-01-01T00:00:00.000,,50000,,30.766670
+Valid,51.150000,Kukschin,Fell,L6,12368,"{'type': 'Point', 'coordinates': [31.7, 51.15]}",1938-01-01T00:00:00.000,,2250,,31.700000
+Valid,30.731110,Kulak,Fell,L5,12369,"{'type': 'Point', 'coordinates': [66.80222, 30.73111]}",1961-01-01T00:00:00.000,,453.6,,66.802220
+Valid,50.750000,Kuleschovka,Fell,L6,12370,"{'type': 'Point', 'coordinates': [33.5, 50.75]}",1811-01-01T00:00:00.000,,6000,,33.500000
+Valid,41.116670,Kulp,Fell,H6,12373,"{'type': 'Point', 'coordinates': [45, 41.11667]}",1906-01-01T00:00:00.000,,3719,,45.000000
+Valid,55.783330,Kunashak,Fell,L6,12377,"{'type': 'Point', 'coordinates': [61.36667, 55.78333]}",1949-01-01T00:00:00.000,,200000,,61.366670
+Valid,42.250000,Kunya-Urgench,Fell,H5,12379,"{'type': 'Point', 'coordinates': [59.2, 42.25]}",1998-01-01T00:00:00.000,,1100000,,59.200000
+Valid,37.050000,Kushiike,Fell,OC,12381,"{'type': 'Point', 'coordinates': [138.38333, 37.05]}",1920-01-01T00:00:00.000,,4460,,138.383330
+Valid,29.683330,Kusiali,Fell,L6,12382,"{'type': 'Point', 'coordinates': [78.38333, 29.68333]}",1860-01-01T00:00:00.000,,5,,78.383330
+Valid,44.516670,Kutais,Fell,H5,12383,"{'type': 'Point', 'coordinates': [39.3, 44.51667]}",1977-01-01T00:00:00.000,,23,,39.300000
+Valid,10.833330,Kuttippuram,Fell,L6,12384,"{'type': 'Point', 'coordinates': [76.03333, 10.83333]}",1914-01-01T00:00:00.000,,45000,,76.033330
+Valid,55.200000,Kuznetzovo,Fell,L6,12385,"{'type': 'Point', 'coordinates': [75.33333, 55.2]}",1932-01-01T00:00:00.000,,4047,,75.333330
+Valid,32.033330,Kyushu,Fell,L6,12390,"{'type': 'Point', 'coordinates': [130.63333, 32.03333]}",1886-01-01T00:00:00.000,,45000,,130.633330
+Valid,47.083330,La Bécasse,Fell,L6,12392,"{'type': 'Point', 'coordinates': [1.75, 47.08333]}",1879-01-01T00:00:00.000,,2800,,1.750000
+Valid,20.666670,La Charca,Fell,OC,12394,"{'type': 'Point', 'coordinates': [-101.28333, 20.66667]}",1878-01-01T00:00:00.000,,399,,-101.283330
+Valid,-37.333330,La Colina,Fell,H5,12395,"{'type': 'Point', 'coordinates': [-61.53333, -37.33333]}",1924-01-01T00:00:00.000,,2000,,-61.533330
+Valid,-31.233330,La Criolla,Fell,L6,12396,"{'type': 'Point', 'coordinates': [-58.16667, -31.23333]}",1985-01-01T00:00:00.000,,45000,,-58.166670
+Valid,44.283330,Laborel,Fell,H5,12408,"{'type': 'Point', 'coordinates': [5.58333, 44.28333]}",1871-01-01T00:00:00.000,,3833,,5.583330
+Valid,26.783330,Lahrauli,Fell,Ureilite,12433,"{'type': 'Point', 'coordinates': [82.71667, 26.78333]}",1955-01-01T00:00:00.000,,900,,82.716670
+Valid,48.766670,L'Aigle,Fell,L6,12434,"{'type': 'Point', 'coordinates': [0.63333, 48.76667]}",1803-01-01T00:00:00.000,,37000,,0.633330
+Valid,,Cumulus Hills 04075,Found,Pallasite,32531,,2003-01-01T00:00:00.000,,9.6,,
+Valid,21.866670,Lakangaon,Fell,Eucrite-mmict,12435,"{'type': 'Point', 'coordinates': [76.03333, 21.86667]}",1910-01-01T00:00:00.000,,212.5,,76.033330
+Valid,24.450000,Lalitpur,Fell,L6,12451,"{'type': 'Point', 'coordinates': [78.56667, 24.45]}",1887-01-01T00:00:00.000,,372,,78.566670
+Valid,47.700000,Lancé,Fell,CO3.5,12455,"{'type': 'Point', 'coordinates': [1.06667, 47.7]}",1872-01-01T00:00:00.000,,51700,,1.066670
+Valid,43.750000,Lancon,Fell,H6,12456,"{'type': 'Point', 'coordinates': [5.11667, 43.75]}",1897-01-01T00:00:00.000,,7000,,5.116670
+Valid,58.850000,Långhalsen,Fell,L6,12461,"{'type': 'Point', 'coordinates': [16.73333, 58.85]}",1947-01-01T00:00:00.000,,2300,,16.733330
+Valid,46.241670,Lanxi,Fell,L6,12464,"{'type': 'Point', 'coordinates': [126.19611, 46.24167]}",1986-01-01T00:00:00.000,,1282,,126.196110
+Valid,47.750000,Lanzenkirchen,Fell,L4,12465,"{'type': 'Point', 'coordinates': [16.23333, 47.75]}",1925-01-01T00:00:00.000,,7000,,16.233330
+Valid,33.133330,Laochenzhen,Fell,H5,12466,"{'type': 'Point', 'coordinates': [115.16667, 33.13333]}",1987-01-01T00:00:00.000,,14250,,115.166670
+Valid,51.900000,Launton,Fell,L6,12740,"{'type': 'Point', 'coordinates': [-1.11667, 51.9]}",1830-01-01T00:00:00.000,,1060,,-1.116670
+Valid,52.450000,Lavrentievka,Fell,L6,12743,"{'type': 'Point', 'coordinates': [51.56667, 52.45]}",1938-01-01T00:00:00.000,,800,,51.566670
+Valid,47.166670,Le Pressoir,Fell,H5,12748,"{'type': 'Point', 'coordinates': [0.43333, 47.16667]}",1845-01-01T00:00:00.000,,3000,,0.433330
+Valid,48.533330,Le Teilleul,Fell,Howardite,12749,"{'type': 'Point', 'coordinates': [-0.86667, 48.53333]}",1845-01-01T00:00:00.000,,780,,-0.866670
+Valid,35.883330,Leedey,Fell,L6,12755,"{'type': 'Point', 'coordinates': [-99.33333, 35.88333]}",1943-01-01T00:00:00.000,20,51500,608,-99.333330
+Valid,-25.666670,Leeuwfontein,Fell,L6,12756,"{'type': 'Point', 'coordinates': [28.36667, -25.66667]}",1912-01-01T00:00:00.000,,460,,28.366670
+Valid,52.666670,Leighlinbridge,Fell,L6,12759,"{'type': 'Point', 'coordinates': [-6.96667, 52.66667]}",1999-01-01T00:00:00.000,,271.39999999999998,,-6.966670
+Valid,34.583330,Leighton,Fell,H5,12760,"{'type': 'Point', 'coordinates': [-87.5, 34.58333]}",1907-01-01T00:00:00.000,29,877,1585,-87.500000
+Valid,52.266670,Leonovka,Fell,L6,12765,"{'type': 'Point', 'coordinates': [32.85, 52.26667]}",1900-01-01T00:00:00.000,,700,,32.850000
+Valid,48.350000,Les Ormes,Fell,L6,12769,"{'type': 'Point', 'coordinates': [3.25, 48.35]}",1857-01-01T00:00:00.000,,125,,3.250000
+Valid,50.366670,Lesves,Fell,L6,12772,"{'type': 'Point', 'coordinates': [4.73333, 50.36667]}",1896-01-01T00:00:00.000,,2000,,4.733330
+Valid,-26.150000,Lichtenberg,Fell,H6,14646,"{'type': 'Point', 'coordinates': [26.18333, -26.15]}",1973-01-01T00:00:00.000,,4000,,26.183330
+Valid,56.650000,Lillaverke,Fell,H5,14650,"{'type': 'Point', 'coordinates': [15.86667, 56.65]}",1930-01-01T00:00:00.000,,6862,,15.866670
+Valid,52.566670,Limerick,Fell,H5,14652,"{'type': 'Point', 'coordinates': [-8.78333, 52.56667]}",1813-01-01T00:00:00.000,,50000,,-8.783330
+Valid,52.750000,Linum,Fell,L6,14655,"{'type': 'Point', 'coordinates': [12.9, 52.75]}",1854-01-01T00:00:00.000,,1862,,12.900000
+Valid,31.633330,Lishui,Fell,L5,14659,"{'type': 'Point', 'coordinates': [118.98333, 31.63333]}",1978-01-01T00:00:00.000,,498,,118.983330
+Valid,50.200000,Lissa,Fell,L6,14661,"{'type': 'Point', 'coordinates': [14.85, 50.2]}",1808-01-01T00:00:00.000,,12800,,14.850000
+Valid,37.916670,Little Piney,Fell,L5,14664,"{'type': 'Point', 'coordinates': [-92.08333, 37.91667]}",1839-01-01T00:00:00.000,18,491,2171,-92.083330
+Valid,56.000000,Lixna,Fell,H4,14670,"{'type': 'Point', 'coordinates': [26.43333, 56]}",1820-01-01T00:00:00.000,,5213,,26.433330
+Valid,29.533330,Lodran,Fell,Lodranite,14675,"{'type': 'Point', 'coordinates': [71.8, 29.53333]}",1868-01-01T00:00:00.000,,1000,,71.800000
+Valid,26.965560,Lohawat,Fell,Howardite,14678,"{'type': 'Point', 'coordinates': [72.62667, 26.96556]}",1994-01-01T00:00:00.000,,40000,,72.626670
+Valid,38.700660,Lorton,Fell,L6,52843,"{'type': 'Point', 'coordinates': [-77.21163, 38.70066]}",2010-01-01T00:00:00.000,40,329.7,2770,-77.211630
+Valid,38.000000,Los Martinez,Fell,L6,14708,"{'type': 'Point', 'coordinates': [-0.83333, 38]}",1894-01-01T00:00:00.000,,25,,-0.833330
+Valid,36.008330,Lost City,Fell,H5,14711,"{'type': 'Point', 'coordinates': [-95.15, 36.00833]}",1970-01-01T00:00:00.000,20,17000,2711,-95.150000
+Valid,38.250000,Louisville,Fell,L6,14716,"{'type': 'Point', 'coordinates': [-85.75, 38.25]}",1977-01-01T00:00:00.000,36,1300,1327,-85.750000
+Valid,52.000000,Łowicz,Fell,Mesosiderite-A3,14718,"{'type': 'Point', 'coordinates': [19.91667, 52]}",1935-01-01T00:00:00.000,,59000,,19.916670
+Valid,24.950000,Lua,Fell,L5,14721,"{'type': 'Point', 'coordinates': [75.15, 24.95]}",1926-01-01T00:00:00.000,,9241,,75.150000
+Valid,47.850000,Lucé,Fell,L6,14724,"{'type': 'Point', 'coordinates': [0.48333, 47.85]}",1768-01-01T00:00:00.000,,3500,,0.483330
+Valid,32.033330,Lumpkin,Fell,L6,14753,"{'type': 'Point', 'coordinates': [-84.76667, 32.03333]}",1869-01-01T00:00:00.000,31,340,1567,-84.766670
+Valid,24.800000,Lunan,Fell,H6,14754,"{'type': 'Point', 'coordinates': [103.3, 24.8]}",1980-01-01T00:00:00.000,,2520,,103.300000
+Valid,56.216670,Lundsgård,Fell,L6,14755,"{'type': 'Point', 'coordinates': [13.03333, 56.21667]}",1889-01-01T00:00:00.000,,11000,,13.033330
+Valid,61.200000,Luotolax,Fell,Howardite,14756,"{'type': 'Point', 'coordinates': [27.7, 61.2]}",1813-01-01T00:00:00.000,,885,,27.700000
+Valid,46.216670,Luponnas,Fell,H3-5,14757,"{'type': 'Point', 'coordinates': [5, 46.21667]}",1753-01-01T00:00:00.000,,14000,,5.000000
+Valid,-7.216670,Lusaka,Fell,Unknown,14759,"{'type': 'Point', 'coordinates': [29.43333, -7.21667]}",1951-01-01T00:00:00.000,,,,29.433330
+Valid,19.000000,Mabwe-Khoywa,Fell,L5,14764,"{'type': 'Point', 'coordinates': [97, 19]}",1937-01-01T00:00:00.000,,540,,97.000000
+Valid,-5.200000,Macau,Fell,H5,15370,"{'type': 'Point', 'coordinates': [-36.66667, -5.2]}",1836-01-01T00:00:00.000,,1500,,-36.666670
+Valid,-15.212220,Machinga,Fell,L6,15371,"{'type': 'Point', 'coordinates': [35.24222, -15.21222]}",1981-01-01T00:00:00.000,,93200,,35.242220
+Valid,-28.833330,Macibini,Fell,Eucrite-pmict,15372,"{'type': 'Point', 'coordinates': [31.95, -28.83333]}",1936-01-01T00:00:00.000,,1995,,31.950000
+Valid,25.916670,Madhipura,Fell,L,15379,"{'type': 'Point', 'coordinates': [86.36667, 25.91667]}",1950-01-01T00:00:00.000,,1000,,86.366670
+Valid,-7.750000,Madiun,Fell,L6,15380,"{'type': 'Point', 'coordinates': [111.53333, -7.75]}",1935-01-01T00:00:00.000,,400,,111.533330
+Valid,40.416670,Madrid,Fell,L6,15382,"{'type': 'Point', 'coordinates': [-3.71667, 40.41667]}",1896-01-01T00:00:00.000,,400,,-3.716670
+Valid,-26.166670,Mafra,Fell,L3-4,15383,"{'type': 'Point', 'coordinates': [-49.93333, -26.16667]}",1941-01-01T00:00:00.000,,600,,-49.933330
+Valid,37.866670,Magnesia,Fell,"Iron, IAB-sHL",15386,"{'type': 'Point', 'coordinates': [27.51667, 37.86667]}",1899-01-01T00:00:00.000,,5000,,27.516670
+Valid,-19.483330,Magombedze,Fell,H3-5,15387,"{'type': 'Point', 'coordinates': [31.65, -19.48333]}",1990-01-01T00:00:00.000,,666.6,,31.650000
+Valid,27.666670,Mahadevpur,Fell,H4/5,47361,"{'type': 'Point', 'coordinates': [95.78333, 27.66667]}",2007-01-01T00:00:00.000,,70500,,95.783330
+Valid,12.833330,Maigatari-Danduma,Fell,H5/6,30751,"{'type': 'Point', 'coordinates': [9.38333, 12.83333]}",2004-01-01T00:00:00.000,,4629,,9.383330
+Valid,32.216670,Malaga,Fell,OC,15393,"{'type': 'Point', 'coordinates': [-104, 32.21667]}",1933-01-01T00:00:00.000,11,150,611,-104.000000
+Valid,9.500000,Malakal,Fell,L5,15394,"{'type': 'Point', 'coordinates': [31.75, 9.5]}",1970-01-01T00:00:00.000,,2000,,31.750000
+Valid,-3.133330,Malampaka,Fell,H,15395,"{'type': 'Point', 'coordinates': [33.51667, -3.13333]}",1930-01-01T00:00:00.000,,470,,33.516670
+Valid,-28.933330,Malotas,Fell,H5,15397,"{'type': 'Point', 'coordinates': [-63.23333, -28.93333]}",1931-01-01T00:00:00.000,,,,-63.233330
+Valid,-29.450000,Malvern,Fell,Eucrite-pmict,15400,"{'type': 'Point', 'coordinates': [26.76667, -29.45]}",1933-01-01T00:00:00.000,,807,,26.766670
+Valid,45.216670,Mamra Springs,Fell,L6,15401,"{'type': 'Point', 'coordinates': [62.08333, 45.21667]}",1927-01-01T00:00:00.000,,1000,,62.083330
+Valid,23.050000,Manbhoom,Fell,LL6,15402,"{'type': 'Point', 'coordinates': [86.7, 23.05]}",1863-01-01T00:00:00.000,,1700,,86.700000
+Valid,20.966670,Manegaon,Fell,Diogenite,15403,"{'type': 'Point', 'coordinates': [76.1, 20.96667]}",1843-01-01T00:00:00.000,,50,,76.100000
+Valid,-17.650000,Mangwendi,Fell,LL6,15405,"{'type': 'Point', 'coordinates': [31.6, -17.65]}",1934-01-01T00:00:00.000,,22300,,31.600000
+Valid,45.816670,Manych,Fell,LL3.4,15409,"{'type': 'Point', 'coordinates': [44.63333, 45.81667]}",1951-01-01T00:00:00.000,,3555,,44.633330
+Valid,34.233330,Mardan,Fell,H5,15414,"{'type': 'Point', 'coordinates': [72.08333, 34.23333]}",1948-01-01T00:00:00.000,,4500,,72.083330
+Valid,,Maria Linden,Fell,L4,15418,,1925-01-01T00:00:00.000,,114,,
+Valid,42.716670,Mariaville,Fell,Iron,15419,"{'type': 'Point', 'coordinates': [-99.38333, 42.71667]}",1898-01-01T00:00:00.000,19,340,471,-99.383330
+Valid,54.761830,Maribo,Fell,CM2,48973,"{'type': 'Point', 'coordinates': [11.46745, 54.76183]}",2009-01-01T00:00:00.000,,25.81,,11.467450
+Valid,4.666670,Maridi,Fell,H6,15421,"{'type': 'Point', 'coordinates': [29.25, 4.66667]}",1941-01-01T00:00:00.000,,3200,,29.250000
+Valid,-22.250000,Marilia,Fell,H4,15422,"{'type': 'Point', 'coordinates': [-49.93333, -22.25]}",1971-01-01T00:00:00.000,,2500,,-49.933330
+Valid,41.900000,Marion (Iowa),Fell,L6,15424,"{'type': 'Point', 'coordinates': [-91.6, 41.9]}",1847-01-01T00:00:00.000,16,28400,287,-91.600000
+Valid,61.500000,Marjalahti,Fell,"Pallasite, PMG",15426,"{'type': 'Point', 'coordinates': [30.5, 61.5]}",1902-01-01T00:00:00.000,,45000,,30.500000
+Valid,44.500000,Marmande,Fell,L5,15429,"{'type': 'Point', 'coordinates': [0.15, 44.5]}",1848-01-01T00:00:00.000,,3000,,0.150000
+Valid,-14.200000,Maromandia,Fell,L6,15430,"{'type': 'Point', 'coordinates': [48.1, -14.2]}",2002-01-01T00:00:00.000,,6000,,48.100000
+Valid,35.800000,Maryville,Fell,L6,15436,"{'type': 'Point', 'coordinates': [-84.1, 35.8]}",1983-01-01T00:00:00.000,39,1443,2740,-84.100000
+Valid,45.366670,Mascombes,Fell,L6,15438,"{'type': 'Point', 'coordinates': [1.86667, 45.36667]}",1836-01-01T00:00:00.000,,1000,,1.866670
+Valid,0.000000,Mason Gully,Fell,H5,53653,"{'type': 'Point', 'coordinates': [0, 0]}",2010-01-01T00:00:00.000,,24.54,,0.000000
+Valid,48.133330,Mässing,Fell,Howardite,15443,"{'type': 'Point', 'coordinates': [12.61667, 48.13333]}",1803-01-01T00:00:00.000,,1600,,12.616670
+Valid,48.183330,Mauerkirchen,Fell,L6,15446,"{'type': 'Point', 'coordinates': [13.13333, 48.18333]}",1768-01-01T00:00:00.000,,19000,,13.133330
+Valid,-20.000000,Mauritius,Fell,L6,15447,"{'type': 'Point', 'coordinates': [57, -20]}",1801-01-01T00:00:00.000,,220,,57.000000
+Valid,8.966670,Mayo Belwa,Fell,Aubrite,15451,"{'type': 'Point', 'coordinates': [12.08333, 8.96667]}",1974-01-01T00:00:00.000,,4850,,12.083330
+Valid,24.683330,Mazapil,Fell,"Iron, IAB-sLL",15453,"{'type': 'Point', 'coordinates': [-101.68333, 24.68333]}",1885-01-01T00:00:00.000,,4000,,-101.683330
+Valid,-1.216670,Maziba,Fell,L6,15454,"{'type': 'Point', 'coordinates': [30, -1.21667]}",1942-01-01T00:00:00.000,,4975,,30.000000
+Valid,1.066670,Mbale,Fell,L5/6,15455,"{'type': 'Point', 'coordinates': [34.16667, 1.06667]}",1992-01-01T00:00:00.000,,150000,,34.166670
+Valid,-27.250000,Medanitos,Fell,Eucrite-cm,15467,"{'type': 'Point', 'coordinates': [-67.5, -27.25]}",1953-01-01T00:00:00.000,,31,,-67.500000
+Valid,29.016670,Meerut,Fell,H5,15469,"{'type': 'Point', 'coordinates': [77.8, 29.01667]}",1861-01-01T00:00:00.000,,22,,77.800000
+Valid,-6.233330,Meester-Cornelis,Fell,H5,15470,"{'type': 'Point', 'coordinates': [106.88333, -6.23333]}",1915-01-01T00:00:00.000,,24750,,106.883330
+Valid,53.183330,Menow,Fell,H4,15485,"{'type': 'Point', 'coordinates': [13.15, 53.18333]}",1862-01-01T00:00:00.000,,10500,,13.150000
+Valid,46.818670,Menziswyl,Fell,L5,15486,"{'type': 'Point', 'coordinates': [7.21817, 46.81867]}",1903-01-01T00:00:00.000,,28.9,,7.218170
+Valid,55.050000,Mern,Fell,L6,15489,"{'type': 'Point', 'coordinates': [12.06667, 55.05]}",1878-01-01T00:00:00.000,,4000,,12.066670
+Valid,0.000000,Meru,Fell,LL6,15491,"{'type': 'Point', 'coordinates': [37.66667, 0]}",1945-01-01T00:00:00.000,,6000,,37.666670
+Valid,25.483330,Merua,Fell,H5,15492,"{'type': 'Point', 'coordinates': [81.98333, 25.48333]}",1920-01-01T00:00:00.000,,71400,,81.983330
+Valid,38.183330,Messina,Fell,L5,15495,"{'type': 'Point', 'coordinates': [15.56667, 38.18333]}",1955-01-01T00:00:00.000,,2405,,15.566670
+Valid,50.583330,Meuselbach,Fell,L6,16626,"{'type': 'Point', 'coordinates': [11.1, 50.58333]}",1897-01-01T00:00:00.000,,870,,11.100000
+Valid,45.766670,Mezel,Fell,L6,16627,"{'type': 'Point', 'coordinates': [3.25, 45.76667]}",1949-01-01T00:00:00.000,,1300,,3.250000
+Valid,46.500000,Mezö-Madaras,Fell,L3.7,16628,"{'type': 'Point', 'coordinates': [25.73333, 46.5]}",1852-01-01T00:00:00.000,,22700,,25.733330
+Valid,25.900000,Mhow,Fell,L6,16629,"{'type': 'Point', 'coordinates': [83.61667, 25.9]}",1827-01-01T00:00:00.000,,350,,83.616670
+Valid,34.800000,Mianchi,Fell,H5,16631,"{'type': 'Point', 'coordinates': [111.7, 34.8]}",1980-01-01T00:00:00.000,,1100,,111.700000
+Valid,54.566670,Middlesbrough,Fell,L6,16632,"{'type': 'Point', 'coordinates': [-1.16667, 54.56667]}",1881-01-01T00:00:00.000,,1600,,-1.166670
+Valid,42.907500,Mifflin,Fell,L5,52090,"{'type': 'Point', 'coordinates': [-90.36556, 42.9075]}",2010-01-01T00:00:00.000,41,3584,2996,-90.365560
+Valid,48.066670,Mighei,Fell,CM2,16634,"{'type': 'Point', 'coordinates': [30.96667, 48.06667]}",1889-01-01T00:00:00.000,,8000,,30.966670
+Valid,35.568330,Mihonoseki,Fell,L6,16635,"{'type': 'Point', 'coordinates': [133.22, 35.56833]}",1992-01-01T00:00:00.000,,6380,,133.220000
+Valid,46.233330,Mike,Fell,L6,16636,"{'type': 'Point', 'coordinates': [17.53333, 46.23333]}",1944-01-01T00:00:00.000,,224.2,,17.533330
+Valid,46.183330,Milena,Fell,L6,16640,"{'type': 'Point', 'coordinates': [16.1, 46.18333]}",1842-01-01T00:00:00.000,,10000,,16.100000
+Valid,-26.450000,Millbillillie,Fell,Eucrite-mmict,16643,"{'type': 'Point', 'coordinates': [120.36667, -26.45]}",1960-01-01T00:00:00.000,,330000,,120.366670
+Valid,35.400000,Miller (Arkansas),Fell,H5,16645,"{'type': 'Point', 'coordinates': [-92.05, 35.4]}",1930-01-01T00:00:00.000,15,16700,11,-92.050000
+Valid,35.078330,Minamino,Fell,L,16692,"{'type': 'Point', 'coordinates': [136.93333, 35.07833]}",1632-01-01T00:00:00.000,,1040,,136.933330
+Valid,37.283330,Mineo,Fell,Pallasite,16696,"{'type': 'Point', 'coordinates': [14.7, 37.28333]}",1826-01-01T00:00:00.000,,42,,14.700000
+Valid,32.333330,Min-Fan-Zhun,Fell,LL6,16697,"{'type': 'Point', 'coordinates': [120.66667, 32.33333]}",1952-01-01T00:00:00.000,,5500,,120.666670
+Valid,47.700000,Minnichhof,Fell,OC,16700,"{'type': 'Point', 'coordinates': [16.6, 47.7]}",1905-01-01T00:00:00.000,,550,,16.600000
+Valid,25.683330,Mirzapur,Fell,L5,16701,"{'type': 'Point', 'coordinates': [83.25, 25.68333]}",1910-01-01T00:00:00.000,,8510,,83.250000
+Valid,56.666670,Misshof,Fell,H5,16703,"{'type': 'Point', 'coordinates': [23, 56.66667]}",1890-01-01T00:00:00.000,,5800,,23.000000
+Valid,61.733330,Mjelleim,Fell,H,16707,"{'type': 'Point', 'coordinates': [5.93333, 61.73333]}",1898-01-01T00:00:00.000,,100.7,,5.933330
+Valid,46.800000,Mocs,Fell,L5-6,16709,"{'type': 'Point', 'coordinates': [24.03333, 46.8]}",1882-01-01T00:00:00.000,,300000,,24.033330
+Valid,38.500000,Modoc (1905),Fell,L6,16711,"{'type': 'Point', 'coordinates': [-101.1, 38.5]}",1905-01-01T00:00:00.000,17,35000,1290,-101.100000
+Valid,-39.633330,Mokoia,Fell,CV3,16713,"{'type': 'Point', 'coordinates': [174.4, -39.63333]}",1908-01-01T00:00:00.000,,4500,,174.400000
+Valid,38.116670,Molina,Fell,H5,16715,"{'type': 'Point', 'coordinates': [-1.16667, 38.11667]}",1858-01-01T00:00:00.000,,144000,,-1.166670
+Valid,-31.250000,Molteno,Fell,Howardite,16717,"{'type': 'Point', 'coordinates': [26.46667, -31.25]}",1953-01-01T00:00:00.000,,150,,26.466670
+Valid,31.608330,Monahans (1998),Fell,H5,16719,"{'type': 'Point', 'coordinates': [-102.85833, 31.60833]}",1998-01-01T00:00:00.000,23,2587,2957,-102.858330
+Valid,35.250000,Monroe,Fell,H4,16720,"{'type': 'Point', 'coordinates': [-80.5, 35.25]}",1849-01-01T00:00:00.000,37,8600,636,-80.500000
+Valid,38.016670,Monte das Fortes,Fell,L5,16725,"{'type': 'Point', 'coordinates': [-8.25, 38.01667]}",1950-01-01T00:00:00.000,,4885,,-8.250000
+Valid,43.266670,Monte Milone,Fell,L5,16726,"{'type': 'Point', 'coordinates': [13.35, 43.26667]}",1846-01-01T00:00:00.000,,3130,,13.350000
+Valid,43.390560,Montferré,Fell,H5,16727,"{'type': 'Point', 'coordinates': [1.9625, 43.39056]}",1923-01-01T00:00:00.000,,149000,,1.962500
+Valid,47.633330,Montlivault,Fell,L6,16729,"{'type': 'Point', 'coordinates': [1.58333, 47.63333]}",1838-01-01T00:00:00.000,,500,,1.583330
+Valid,-15.966670,Monze,Fell,L6,16733,"{'type': 'Point', 'coordinates': [27.35, -15.96667]}",1950-01-01T00:00:00.000,,,,27.350000
+Valid,35.416670,Moore County,Fell,Eucrite-cm,16736,"{'type': 'Point', 'coordinates': [-79.38333, 35.41667]}",1913-01-01T00:00:00.000,37,1880,2431,-79.383330
+Valid,52.450000,Mooresfort,Fell,H5,16737,"{'type': 'Point', 'coordinates': [-8.33333, 52.45]}",1810-01-01T00:00:00.000,,3520,,-8.333330
+Valid,-40.975000,Moorleah,Fell,L6,16738,"{'type': 'Point', 'coordinates': [145.6, -40.975]}",1930-01-01T00:00:00.000,,8887.5,,145.600000
+Valid,28.783330,Moradabad,Fell,L6,16740,"{'type': 'Point', 'coordinates': [78.83333, 28.78333]}",1808-01-01T00:00:00.000,,70,,78.833330
+Valid,49.600000,Morávka,Fell,H5,16742,"{'type': 'Point', 'coordinates': [18.53333, 49.6]}",2000-01-01T00:00:00.000,,633,,18.533330
+Valid,44.600000,Mornans,Fell,H5,16747,"{'type': 'Point', 'coordinates': [5.13333, 44.6]}",1875-01-01T00:00:00.000,,1300,,5.133330
+Valid,59.433330,Moss,Fell,CO3.6,36592,"{'type': 'Point', 'coordinates': [10.7, 59.43333]}",2006-01-01T00:00:00.000,,3763,,10.700000
+Valid,26.833330,Moti-ka-nagla,Fell,H6,16759,"{'type': 'Point', 'coordinates': [77.33333, 26.83333]}",1868-01-01T00:00:00.000,,1500,,77.333330
+Valid,45.200000,Motta di Conti,Fell,H4,16762,"{'type': 'Point', 'coordinates': [8.5, 45.2]}",1868-01-01T00:00:00.000,,9150,,8.500000
+Valid,-29.800000,Mount Browne,Fell,H6,16766,"{'type': 'Point', 'coordinates': [141.7, -29.8]}",1902-01-01T00:00:00.000,,11300,,141.700000
+Valid,18.700000,Mount Tazerzait,Fell,L5,16804,"{'type': 'Point', 'coordinates': [4.8, 18.7]}",1991-01-01T00:00:00.000,,110000,,4.800000
+Valid,44.083330,Mount Vaisi,Fell,Stone-uncl,16805,"{'type': 'Point', 'coordinates': [6.86667, 44.08333]}",1637-01-01T00:00:00.000,,17000,,6.866670
+Valid,-11.500000,Mtola,Fell,Stone-uncl,16820,"{'type': 'Point', 'coordinates': [33.5, -11.5]}",1944-01-01T00:00:00.000,,1100,,33.500000
+Valid,12.633330,Muddoor,Fell,L5,16841,"{'type': 'Point', 'coordinates': [77.01667, 12.63333]}",1865-01-01T00:00:00.000,,4400,,77.016670
+Valid,9.333330,Mulletiwu,Fell,L,16851,"{'type': 'Point', 'coordinates': [80.83333, 9.33333]}",1795-01-01T00:00:00.000,,25.5,,80.833330
+Valid,24.500000,Muraid,Fell,L6,16874,"{'type': 'Point', 'coordinates': [90.21667, 24.5]}",1924-01-01T00:00:00.000,,4703,,90.216670
+Valid,-36.616670,Murchison,Fell,CM2,16875,"{'type': 'Point', 'coordinates': [145.2, -36.61667]}",1969-01-01T00:00:00.000,,100000,,145.200000
+Valid,36.600000,Murray,Fell,CM2,16882,"{'type': 'Point', 'coordinates': [-88.1, 36.6]}",1950-01-01T00:00:00.000,36,12600,237,-88.100000
+Valid,26.133330,Muzaffarpur,Fell,"Iron, IAB-sHL",16885,"{'type': 'Point', 'coordinates': [85.53333, 26.13333]}",1964-01-01T00:00:00.000,,1245,,85.533330
+Valid,23.050000,Myhee Caunta,Fell,OC,16887,"{'type': 'Point', 'coordinates': [72.63333, 23.05]}",1842-01-01T00:00:00.000,,,,72.633330
+Valid,12.000000,Nadiabondi,Fell,H5,16889,"{'type': 'Point', 'coordinates': [1, 12]}",1956-01-01T00:00:00.000,,8165,,1.000000
+Valid,38.121670,Nagai,Fell,L6,16890,"{'type': 'Point', 'coordinates': [140.06167, 38.12167]}",1922-01-01T00:00:00.000,,1810,,140.061670
+Valid,26.983330,Nagaria,Fell,Eucrite-cm,16892,"{'type': 'Point', 'coordinates': [78.21667, 26.98333]}",1875-01-01T00:00:00.000,,20,,78.216670
+Valid,49.166670,Nagy-Borové,Fell,L5,16893,"{'type': 'Point', 'coordinates': [19.5, 49.16667]}",1895-01-01T00:00:00.000,,6100,,19.500000
+Valid,31.316670,Nakhla,Fell,Martian (nakhlite),16898,"{'type': 'Point', 'coordinates': [30.35, 31.31667]}",1911-01-01T00:00:00.000,,10000,,30.350000
+Valid,13.733330,Nakhon Pathom,Fell,L6,16899,"{'type': 'Point', 'coordinates': [100.08333, 13.73333]}",1923-01-01T00:00:00.000,,23200,,100.083330
+Valid,12.283330,Nammianthal,Fell,H5,16902,"{'type': 'Point', 'coordinates': [79.2, 12.28333]}",1886-01-01T00:00:00.000,,4500,,79.200000
+Valid,35.666670,Nan Yang Pao,Fell,L6,16903,"{'type': 'Point', 'coordinates': [103.5, 35.66667]}",1917-01-01T00:00:00.000,,52900,,103.500000
+Valid,38.416670,Nanjemoy,Fell,H6,16904,"{'type': 'Point', 'coordinates': [-77.16667, 38.41667]}",1825-01-01T00:00:00.000,45,7500,419,-77.166670
+Valid,32.116670,Nantong,Fell,H6,16907,"{'type': 'Point', 'coordinates': [121.8, 32.11667]}",1984-01-01T00:00:00.000,,529,,121.800000
+Valid,19.250000,Naoki,Fell,H6,16908,"{'type': 'Point', 'coordinates': [77, 19.25]}",1928-01-01T00:00:00.000,,17000,,77.000000
+Valid,33.750000,Naragh,Fell,H6,16909,"{'type': 'Point', 'coordinates': [51.5, 33.75]}",1974-01-01T00:00:00.000,,2700,,51.500000
+Valid,-34.050000,Narellan,Fell,L6,16912,"{'type': 'Point', 'coordinates': [150.68889, -34.05]}",1928-01-01T00:00:00.000,,367.5,,150.688890
+Valid,42.516670,Narni,Fell,Stone-uncl,16914,"{'type': 'Point', 'coordinates': [12.51667, 42.51667]}",0921-01-01T00:00:00.000,,,,12.516670
+Valid,-21.733330,Nassirah,Fell,H4,16922,"{'type': 'Point', 'coordinates': [165.9, -21.73333]}",1936-01-01T00:00:00.000,,347,,165.900000
+Valid,,Natal,Fell,Stone-uncl,16923,,1973-01-01T00:00:00.000,,1.4,,
+Valid,21.250000,Nawapali,Fell,CM2,16927,"{'type': 'Point', 'coordinates': [83.66667, 21.25]}",1890-01-01T00:00:00.000,,105,,83.666670
+Valid,36.449170,Neagari,Fell,L6,16934,"{'type': 'Point', 'coordinates': [136.46528, 36.44917]}",1995-01-01T00:00:00.000,,420,,136.465280
+Valid,18.683330,Nedagolla,Fell,"Iron, ungrouped",16935,"{'type': 'Point', 'coordinates': [83.48333, 18.68333]}",1870-01-01T00:00:00.000,,4500,,83.483330
+Valid,9.500000,Nejo,Fell,L6,16941,"{'type': 'Point', 'coordinates': [35.33333, 9.5]}",1970-01-01T00:00:00.000,,2450,,35.333330
+Valid,56.500000,Nerft,Fell,L6,16945,"{'type': 'Point', 'coordinates': [21.5, 56.5]}",1864-01-01T00:00:00.000,,10250,,21.500000
+Valid,47.525000,Neuschwanstein,Fell,EL6,16950,"{'type': 'Point', 'coordinates': [10.80833, 47.525]}",2002-01-01T00:00:00.000,,6189,,10.808330
+Valid,40.000000,New Concord,Fell,L6,16953,"{'type': 'Point', 'coordinates': [-81.76667, 40]}",1860-01-01T00:00:00.000,38,230000,2615,-81.766670
+Valid,15.366670,New Halfa,Fell,L4,16954,"{'type': 'Point', 'coordinates': [35.68333, 15.36667]}",1994-01-01T00:00:00.000,,12000,,35.683330
+Valid,29.947180,New Orleans,Fell,H5,16960,"{'type': 'Point', 'coordinates': [-90.10976, 29.94718]}",2003-01-01T00:00:00.000,22,19256,1667,-90.109760
+Valid,-7.450000,Ngawi,Fell,LL3.6,16966,"{'type': 'Point', 'coordinates': [111.41667, -7.45]}",1883-01-01T00:00:00.000,,1393,,111.416670
+Valid,13.850000,N'Goureyma,Fell,"Iron, ungrouped",16968,"{'type': 'Point', 'coordinates': [-4.38333, 13.85]}",1900-01-01T00:00:00.000,,37500,,-4.383330
+Valid,49.033330,Nicorps,Fell,Stone-uncl,16970,"{'type': 'Point', 'coordinates': [-1.43333, 49.03333]}",1750-01-01T00:00:00.000,,,,-1.433330
+Valid,,Niger (L6),Fell,L6,16974,,1967-01-01T00:00:00.000,,3.3,,
+Valid,,Niger (LL6),Fell,LL6,16975,,1967-01-01T00:00:00.000,,3.3,,
+Valid,52.450000,Nikolaevka,Fell,H4,16976,"{'type': 'Point', 'coordinates': [78.63333, 52.45]}",1935-01-01T00:00:00.000,,3996,,78.633330
+Valid,56.116670,Nikolskoe,Fell,L4,16977,"{'type': 'Point', 'coordinates': [37.33333, 56.11667]}",1954-01-01T00:00:00.000,,6000,,37.333330
+Valid,29.866670,Ningbo,Fell,"Iron, IVA",16980,"{'type': 'Point', 'coordinates': [121.48333, 29.86667]}",1975-01-01T00:00:00.000,,14250,,121.483330
+Valid,32.925000,Ningqiang,Fell,C3-ung,16981,"{'type': 'Point', 'coordinates': [105.90667, 32.925]}",1983-01-01T00:00:00.000,,4610,,105.906670
+Valid,34.200000,Nio,Fell,H3-4,16982,"{'type': 'Point', 'coordinates': [131.56667, 34.2]}",1897-01-01T00:00:00.000,,467,,131.566670
+Valid,-28.566670,N'Kandhla,Fell,"Iron, IID",16983,"{'type': 'Point', 'coordinates': [30.7, -28.56667]}",1912-01-01T00:00:00.000,,17200,,30.700000
+Valid,44.083330,Nobleborough,Fell,Eucrite-pmict,16984,"{'type': 'Point', 'coordinates': [-69.48333, 44.08333]}",1823-01-01T00:00:00.000,49,2300,1683,-69.483330
+Valid,40.085280,Noblesville,Fell,H4-6,16985,"{'type': 'Point', 'coordinates': [-86.055, 40.08528]}",1991-01-01T00:00:00.000,35,483.7,2238,-86.055000
+Valid,33.725000,Nogata,Fell,L6,16988,"{'type': 'Point', 'coordinates': [130.75, 33.725]}",0861-01-01T00:00:00.000,,472,,130.750000
+Valid,-32.366670,Nogoya,Fell,CM2,16989,"{'type': 'Point', 'coordinates': [-59.83333, -32.36667]}",1879-01-01T00:00:00.000,,4000,,-59.833330
+Valid,36.216670,Norfork,Fell,"Iron, IIIAB",16994,"{'type': 'Point', 'coordinates': [-92.26667, 36.21667]}",1918-01-01T00:00:00.000,15,1050,10,-92.266670
+Valid,39.683330,Norton County,Fell,Aubrite,17922,"{'type': 'Point', 'coordinates': [-99.86667, 39.68333]}",1948-01-01T00:00:00.000,17,1100000,1252,-99.866670
+Valid,45.291670,Noventa Vicentina,Fell,H4,17930,"{'type': 'Point', 'coordinates': [11.52722, 45.29167]}",1971-01-01T00:00:00.000,,177,,11.527220
+Valid,54.816670,Novo-Urei,Fell,Ureilite,17933,"{'type': 'Point', 'coordinates': [46, 54.81667]}",1886-01-01T00:00:00.000,,1900,,46.000000
+Valid,58.550000,Novy-Ergi,Fell,Stone-uncl,17934,"{'type': 'Point', 'coordinates': [31.33333, 58.55]}",1662-01-01T00:00:00.000,,,,31.333330
+Valid,56.000000,Novy-Projekt,Fell,OC,17935,"{'type': 'Point', 'coordinates': [22, 56]}",1908-01-01T00:00:00.000,,1001,,22.000000
+Valid,42.916670,Noyan-Bogdo,Fell,L6,17936,"{'type': 'Point', 'coordinates': [102.46667, 42.91667]}",1933-01-01T00:00:00.000,,250,,102.466670
+Valid,24.300000,Nuevo Mercurio,Fell,H5,17938,"{'type': 'Point', 'coordinates': [-102.13333, 24.3]}",1978-01-01T00:00:00.000,,50000,,-102.133330
+Valid,41.633330,Nulles,Fell,H6,17959,"{'type': 'Point', 'coordinates': [0.75, 41.63333]}",1851-01-01T00:00:00.000,,5000,,0.750000
+Valid,43.333330,Numakai,Fell,H4,17960,"{'type': 'Point', 'coordinates': [141.86667, 43.33333]}",1925-01-01T00:00:00.000,,363,,141.866670
+Valid,21.208330,Nyaung,Fell,"Iron, IIIAB",17969,"{'type': 'Point', 'coordinates': [94.91667, 21.20833]}",1939-01-01T00:00:00.000,,737.6,,94.916670
+Valid,47.550000,Nyirábrany,Fell,LL5,17970,"{'type': 'Point', 'coordinates': [22.025, 47.55]}",1914-01-01T00:00:00.000,,1100,,22.025000
+Valid,57.783330,Ochansk,Fell,H4,17979,"{'type': 'Point', 'coordinates': [55.26667, 57.78333]}",1887-01-01T00:00:00.000,,500000,,55.266670
+Valid,52.283330,Oesede,Fell,H5,17988,"{'type': 'Point', 'coordinates': [8.05, 52.28333]}",1927-01-01T00:00:00.000,,1400,,8.050000
+Valid,58.500000,Oesel,Fell,L6,17989,"{'type': 'Point', 'coordinates': [23, 58.5]}",1855-01-01T00:00:00.000,,6000,,23.000000
+Valid,47.883330,Ofehértó,Fell,L6,17990,"{'type': 'Point', 'coordinates': [22.03333, 47.88333]}",1900-01-01T00:00:00.000,,3750,,22.033330
+Valid,33.283330,Ogi,Fell,H6,17994,"{'type': 'Point', 'coordinates': [130.2, 33.28333]}",1741-01-01T00:00:00.000,,14360,,130.200000
+Valid,46.066670,Ohaba,Fell,H5,17995,"{'type': 'Point', 'coordinates': [23.58333, 46.06667]}",1857-01-01T00:00:00.000,,16250,,23.583330
+Valid,6.750000,Ohuma,Fell,L5,17996,"{'type': 'Point', 'coordinates': [8.5, 6.75]}",1963-01-01T00:00:00.000,,7700,,8.500000
+Valid,38.183330,Ojuelos Altos,Fell,L6,17997,"{'type': 'Point', 'coordinates': [-5.4, 38.18333]}",1926-01-01T00:00:00.000,,5850,,-5.400000
+Valid,36.183330,Okabe,Fell,H5,17998,"{'type': 'Point', 'coordinates': [139.21667, 36.18333]}",1958-01-01T00:00:00.000,,194,,139.216670
+Valid,35.083330,Okano,Fell,"Iron, IIAB",18000,"{'type': 'Point', 'coordinates': [135.2, 35.08333]}",1904-01-01T00:00:00.000,,4742,,135.200000
+Valid,50.833330,Okniny,Fell,LL6,18002,"{'type': 'Point', 'coordinates': [25.5, 50.83333]}",1834-01-01T00:00:00.000,,12000,,25.500000
+Valid,52.950000,Oldenburg (1930),Fell,L6,18009,"{'type': 'Point', 'coordinates': [8.16667, 52.95]}",1930-01-01T00:00:00.000,,16570,,8.166670
+Valid,39.000000,Oliva-Gandia,Fell,Stone-uncl,18012,"{'type': 'Point', 'coordinates': [-0.03333, 39]}",1520-01-01T00:00:00.000,,,,-0.033330
+Valid,38.716670,Olivenza,Fell,LL5,18013,"{'type': 'Point', 'coordinates': [-7.06667, 38.71667]}",1924-01-01T00:00:00.000,,150000,,-7.066670
+Valid,39.566670,Olmedilla de Alarcón,Fell,H5,18015,"{'type': 'Point', 'coordinates': [-2.1, 39.56667]}",1929-01-01T00:00:00.000,,40000,,-2.100000
+Valid,64.020000,Omolon,Fell,"Pallasite, PMG",18019,"{'type': 'Point', 'coordinates': [161.80833, 64.02]}",1981-01-01T00:00:00.000,,250000,,161.808330
+Valid,43.883330,Orgueil,Fell,CI1,18026,"{'type': 'Point', 'coordinates': [1.38333, 43.88333]}",1864-01-01T00:00:00.000,,14000,,1.383330
+Valid,28.547500,Orlando,Fell,Eucrite,34489,"{'type': 'Point', 'coordinates': [-81.36222, 28.5475]}",2004-01-01T00:00:00.000,30,180,1078,-81.362220
+Valid,47.116670,Ornans,Fell,CO3.4,18030,"{'type': 'Point', 'coordinates': [6.15, 47.11667]}",1868-01-01T00:00:00.000,,6000,,6.150000
+Valid,48.500000,Ortenau,Fell,Stone-uncl,18033,"{'type': 'Point', 'coordinates': [8, 48.5]}",1671-01-01T00:00:00.000,,4500,,8.000000
+Valid,42.133330,Orvinio,Fell,H6,18034,"{'type': 'Point', 'coordinates': [12.93333, 42.13333]}",1872-01-01T00:00:00.000,,3400,,12.933330
+Valid,58.883330,Oterøy,Fell,L6,18042,"{'type': 'Point', 'coordinates': [9.4, 58.88333]}",1928-01-01T00:00:00.000,,246,,9.400000
+Valid,38.400000,Otomi,Fell,H,18045,"{'type': 'Point', 'coordinates': [140.35, 38.4]}",1867-01-01T00:00:00.000,,6510,,140.350000
+Valid,38.600000,Ottawa,Fell,LL6,18046,"{'type': 'Point', 'coordinates': [-95.21667, 38.6]}",1896-01-01T00:00:00.000,17,840,1947,-95.216670
+Valid,12.900000,Ouadangou,Fell,L5,56729,"{'type': 'Point', 'coordinates': [0.08, 12.9]}",2003-01-01T00:00:00.000,,4440,,0.080000
+Valid,30.180000,Oued el Hadjar,Fell,LL6,18050,"{'type': 'Point', 'coordinates': [-6.57717, 30.18]}",1986-01-01T00:00:00.000,,1215.5,,-6.577170
+Valid,24.300000,Oum Dreyga,Fell,H3-5,31282,"{'type': 'Point', 'coordinates': [-13.1, 24.3]}",2003-01-01T00:00:00.000,,17000,,-13.100000
+Valid,37.608330,Ourique,Fell,H4,18052,"{'type': 'Point', 'coordinates': [-8.28, 37.60833]}",1998-01-01T00:00:00.000,,20000,,-8.280000
+Valid,-18.000000,Ovambo,Fell,L6,18055,"{'type': 'Point', 'coordinates': [16, -18]}",1900-01-01T00:00:00.000,,121.5,,16.000000
+Valid,43.400000,Oviedo,Fell,H5,18058,"{'type': 'Point', 'coordinates': [-5.86667, 43.4]}",1856-01-01T00:00:00.000,,205,,-5.866670
+Valid,51.333330,Owrucz,Fell,OC,18062,"{'type': 'Point', 'coordinates': [28.83333, 51.33333]}",1775-01-01T00:00:00.000,,,,28.833330
+Valid,21.050000,Pacula,Fell,L6,18068,"{'type': 'Point', 'coordinates': [-99.3, 21.05]}",1881-01-01T00:00:00.000,,3400,,-99.300000
+Valid,55.666670,Padvarninkai,Fell,Eucrite-mmict,18069,"{'type': 'Point', 'coordinates': [25, 55.66667]}",1929-01-01T00:00:00.000,,3858,,25.000000
+Valid,17.743330,Paitan,Fell,H6,18072,"{'type': 'Point', 'coordinates': [120.45583, 17.74333]}",1910-01-01T00:00:00.000,,515,,120.455830
+Valid,32.316670,Palahatchie,Fell,OC,18073,"{'type': 'Point', 'coordinates': [-89.71667, 32.31667]}",1910-01-01T00:00:00.000,32,,503,-89.716670
+Valid,-23.116670,Palca de Aparzo,Fell,L5,18074,"{'type': 'Point', 'coordinates': [-65.1, -23.11667]}",1988-01-01T00:00:00.000,,1430,,-65.100000
+Valid,43.483330,Palinshih,Fell,Iron,18077,"{'type': 'Point', 'coordinates': [118.61667, 43.48333]}",1914-01-01T00:00:00.000,,18000,,118.616670
+Valid,39.800000,Palmyra,Fell,L3,18079,"{'type': 'Point', 'coordinates': [-91.5, 39.8]}",1926-01-01T00:00:00.000,18,135,2122,-91.500000
+Valid,21.300000,Palolo Valley,Fell,H5,18082,"{'type': 'Point', 'coordinates': [-157.78333, 21.3]}",1949-01-01T00:00:00.000,4,682,1657,-157.783330
+Valid,,Dominion Range 03239,Found,L6,32591,,2002-01-01T00:00:00.000,,69.5,,
+Valid,15.083330,Pampanga,Fell,L5,18093,"{'type': 'Point', 'coordinates': [120.7, 15.08333]}",1859-01-01T00:00:00.000,,10500,,120.700000
+Valid,8.066670,Pantar,Fell,H5,18098,"{'type': 'Point', 'coordinates': [124.28333, 8.06667]}",1938-01-01T00:00:00.000,,2130,,124.283330
+Valid,36.066670,Paragould,Fell,LL5,18101,"{'type': 'Point', 'coordinates': [-90.5, 36.06667]}",1930-01-01T00:00:00.000,15,408000,1023,-90.500000
+Valid,-6.233330,Parambu,Fell,LL5,18102,"{'type': 'Point', 'coordinates': [-40.7, -6.23333]}",1967-01-01T00:00:00.000,,2000,,-40.700000
+Valid,-19.133330,Paranaiba,Fell,L6,18103,"{'type': 'Point', 'coordinates': [-51.66667, -19.13333]}",1956-01-01T00:00:00.000,,100000,,-51.666670
+Valid,41.484720,Park Forest,Fell,L5,18106,"{'type': 'Point', 'coordinates': [-87.67917, 41.48472]}",2003-01-01T00:00:00.000,34,18000,1863,-87.679170
+Valid,9.233330,Parnallee,Fell,LL3.6,18108,"{'type': 'Point', 'coordinates': [78.35, 9.23333]}",1857-01-01T00:00:00.000,,77600,,78.350000
+Valid,26.200000,Parsa,Fell,EH3,18109,"{'type': 'Point', 'coordinates': [85.4, 26.2]}",1942-01-01T00:00:00.000,,800,,85.400000
+Valid,36.216670,Pasamonte,Fell,Eucrite-pmict,18110,"{'type': 'Point', 'coordinates': [-103.4, 36.21667]}",1933-01-01T00:00:00.000,11,5100,1994,-103.400000
+Valid,20.936940,Patora,Fell,H6,18112,"{'type': 'Point', 'coordinates': [82.05, 20.93694]}",1969-01-01T00:00:00.000,,4375,,82.050000
+Valid,-19.533330,Patrimonio,Fell,L6,18116,"{'type': 'Point', 'coordinates': [-48.56667, -19.53333]}",1950-01-01T00:00:00.000,,2121,,-48.566670
+Valid,38.133330,Patti,Fell,Iron,18118,"{'type': 'Point', 'coordinates': [14.96667, 38.13333]}",1922-01-01T00:00:00.000,,12,,14.966670
+Valid,23.150000,Patwar,Fell,Mesosiderite-A1,18171,"{'type': 'Point', 'coordinates': [91.18333, 23.15]}",1935-01-01T00:00:00.000,,37350,,91.183330
+Valid,43.466670,Pavel,Fell,H5,18173,"{'type': 'Point', 'coordinates': [25.51667, 43.46667]}",1966-01-01T00:00:00.000,,2968,,25.516670
+Valid,52.300000,Pavlodar (stone),Fell,H5,18175,"{'type': 'Point', 'coordinates': [77.03333, 52.3]}",1938-01-01T00:00:00.000,,142.5,,77.033330
+Valid,48.533330,Pavlograd,Fell,L6,18176,"{'type': 'Point', 'coordinates': [35.98333, 48.53333]}",1826-01-01T00:00:00.000,,40000,,35.983330
+Valid,52.033330,Pavlovka,Fell,Howardite,18177,"{'type': 'Point', 'coordinates': [43, 52.03333]}",1882-01-01T00:00:00.000,,2000,,43.000000
+Valid,11.333670,Pê,Fell,L6,18179,"{'type': 'Point', 'coordinates': [-3.54217, 11.33367]}",1989-01-01T00:00:00.000,,,,-3.542170
+Valid,56.133330,Peace River,Fell,L6,18180,"{'type': 'Point', 'coordinates': [-117.93333, 56.13333]}",1963-01-01T00:00:00.000,,45760,,-117.933330
+Valid,51.666670,Peckelsheim,Fell,Diogenite-pm,18181,"{'type': 'Point', 'coordinates': [9.25, 51.66667]}",1953-01-01T00:00:00.000,,117.8,,9.250000
+Valid,41.283330,Peekskill,Fell,H6,18782,"{'type': 'Point', 'coordinates': [-73.91667, 41.28333]}",1992-01-01T00:00:00.000,47,12570,2185,-73.916670
+Valid,30.125000,Peña Blanca Spring,Fell,Aubrite,18786,"{'type': 'Point', 'coordinates': [-103.11667, 30.125]}",1946-01-01T00:00:00.000,23,70000,3062,-103.116670
+Valid,-10.666670,Peramiho,Fell,Eucrite-mmict,18792,"{'type': 'Point', 'coordinates': [35.5, -10.66667]}",1899-01-01T00:00:00.000,,165,,35.500000
+Valid,23.325000,Perpeti,Fell,L6,18793,"{'type': 'Point', 'coordinates': [91, 23.325]}",1935-01-01T00:00:00.000,,23474,,91.000000
+Valid,56.400000,Perth,Fell,LL5,18797,"{'type': 'Point', 'coordinates': [-3.43333, 56.4]}",1830-01-01T00:00:00.000,,2,,-3.433330
+Valid,56.633330,Pervomaisky,Fell,L6,18798,"{'type': 'Point', 'coordinates': [39.43333, 56.63333]}",1933-01-01T00:00:00.000,,66000,,39.433330
+Valid,55.500000,Pesyanoe,Fell,Aubrite,18799,"{'type': 'Point', 'coordinates': [66.08333, 55.5]}",1933-01-01T00:00:00.000,,3393,,66.083330
+Valid,14.052000,Pétèlkolé,Fell,H5,18800,"{'type': 'Point', 'coordinates': [0.42, 14.052]}",1995-01-01T00:00:00.000,,189,,0.420000
+Valid,35.300000,Petersburg,Fell,Eucrite-pmict,18801,"{'type': 'Point', 'coordinates': [-86.63333, 35.3]}",1855-01-01T00:00:00.000,39,1800,2017,-86.633330
+Valid,53.533330,Pettiswood,Fell,Stone-uncl,18804,"{'type': 'Point', 'coordinates': [-7.33333, 53.53333]}",1779-01-01T00:00:00.000,,,,-7.333330
+Valid,40.000000,Phillips County (stone),Fell,L6,18808,"{'type': 'Point', 'coordinates': [-99.25, 40]}",1901-01-01T00:00:00.000,17,57900,1255,-99.250000
+Valid,11.250000,Phu Hong,Fell,H4,18809,"{'type': 'Point', 'coordinates': [108.58333, 11.25]}",1887-01-01T00:00:00.000,,500,,108.583330
+Valid,12.000000,Phum Sambo,Fell,H4,18811,"{'type': 'Point', 'coordinates': [105.48333, 12]}",1933-01-01T00:00:00.000,,7800,,105.483330
+Valid,15.716670,Phuoc-Binh,Fell,L5,18812,"{'type': 'Point', 'coordinates': [108.1, 15.71667]}",1941-01-01T00:00:00.000,,11000,,108.100000
+Valid,44.244170,Piancaldoli,Fell,LL3.4,18813,"{'type': 'Point', 'coordinates': [11.50222, 44.24417]}",1968-01-01T00:00:00.000,,13.1,,11.502220
+Valid,41.366670,Picote,Fell,Stone-uncl,18816,"{'type': 'Point', 'coordinates': [-6.23333, 41.36667]}",1843-01-01T00:00:00.000,,,,-6.233330
+Valid,58.666670,Pillistfer,Fell,EL6,18822,"{'type': 'Point', 'coordinates': [25.73333, 58.66667]}",1863-01-01T00:00:00.000,,23250,,25.733330
+Valid,26.034720,Piplia Kalan,Fell,Eucrite-mmict,18831,"{'type': 'Point', 'coordinates': [73.94167, 26.03472]}",1996-01-01T00:00:00.000,,42000,,73.941670
+Valid,-32.866670,Piquetberg,Fell,H,18832,"{'type': 'Point', 'coordinates': [18.71667, -32.86667]}",1881-01-01T00:00:00.000,,37,,18.716670
+Valid,25.800000,Pirgunje,Fell,L6,18834,"{'type': 'Point', 'coordinates': [88.45, 25.8]}",1882-01-01T00:00:00.000,,842,,88.450000
+Valid,29.583330,Pirthalla,Fell,H6,18835,"{'type': 'Point', 'coordinates': [76, 29.58333]}",1884-01-01T00:00:00.000,,1161,,76.000000
+Valid,31.950000,Pitts,Fell,"Iron, IAB-ung",18837,"{'type': 'Point', 'coordinates': [-83.51667, 31.95]}",1921-01-01T00:00:00.000,31,3760,207,-83.516670
+Valid,30.700000,Plantersville,Fell,H6,18846,"{'type': 'Point', 'coordinates': [-96.11667, 30.7]}",1930-01-01T00:00:00.000,23,2085,2018,-96.116670
+Valid,45.275000,Pleşcoi,Fell,L5-6,51706,"{'type': 'Point', 'coordinates': [26.70972, 45.275]}",2008-01-01T00:00:00.000,,6913,,26.709720
+Valid,50.533330,Ploschkovitz,Fell,L5,18849,"{'type': 'Point', 'coordinates': [14.11667, 50.53333]}",1723-01-01T00:00:00.000,,39,,14.116670
+Valid,11.583330,Pnompehn,Fell,L6,18851,"{'type': 'Point', 'coordinates': [104.91667, 11.58333]}",1868-01-01T00:00:00.000,,96,,104.916670
+Valid,,Dominion Range 03240,Found,LL5,32592,,2002-01-01T00:00:00.000,,290.89999999999998,,
+Valid,50.933330,Pohlitz,Fell,L5,18853,"{'type': 'Point', 'coordinates': [12.13333, 50.93333]}",1819-01-01T00:00:00.000,,3000,,12.133330
+Valid,26.716670,Pokhra,Fell,H5,18858,"{'type': 'Point', 'coordinates': [82.66667, 26.71667]}",1866-01-01T00:00:00.000,,350,,82.666670
+Valid,66.348330,Pollen,Fell,CM2,18860,"{'type': 'Point', 'coordinates': [14.015, 66.34833]}",1942-01-01T00:00:00.000,,253.6,,14.015000
+Valid,53.036390,Pontlyfni,Fell,Winonaite,18865,"{'type': 'Point', 'coordinates': [-4.31944, 53.03639]}",1931-01-01T00:00:00.000,,157,,-4.319440
+Valid,34.175000,Portales Valley,Fell,H6,18874,"{'type': 'Point', 'coordinates': [-103.295, 34.175]}",1998-01-01T00:00:00.000,11,71400,1987,-103.295000
+Valid,38.500000,Portugal,Fell,Stone-uncl,18876,"{'type': 'Point', 'coordinates': [-8, 38.5]}",1796-01-01T00:00:00.000,,4500,,-8.000000
+Valid,31.416670,Po-wang Chen,Fell,LL,18879,"{'type': 'Point', 'coordinates': [118.5, 31.41667]}",1933-01-01T00:00:00.000,,665,,118.500000
+Valid,48.302500,Prambachkirchen,Fell,L6,18883,"{'type': 'Point', 'coordinates': [13.94083, 48.3025]}",1932-01-01T00:00:00.000,,2125,,13.940830
+Valid,49.666670,Pribram,Fell,H5,18887,"{'type': 'Point', 'coordinates': [14.03333, 49.66667]}",1959-01-01T00:00:00.000,,5555,,14.033330
+Valid,39.116670,Pricetown,Fell,L6,18888,"{'type': 'Point', 'coordinates': [-83.85, 39.11667]}",1893-01-01T00:00:00.000,38,900,2566,-83.850000
+Valid,39.350000,Puerto Lápice,Fell,Eucrite-br,45984,"{'type': 'Point', 'coordinates': [-3.51667, 39.35]}",2007-01-01T00:00:00.000,,500,,-3.516670
+Valid,23.366670,Pulsora,Fell,H5,18899,"{'type': 'Point', 'coordinates': [75.18333, 23.36667]}",1863-01-01T00:00:00.000,,560,,75.183330
+Valid,52.766670,Pultusk,Fell,H5,18901,"{'type': 'Point', 'coordinates': [21.26667, 52.76667]}",1868-01-01T00:00:00.000,,250000,,21.266670
+Valid,13.333330,Punganaru,Fell,Stone-uncl,18902,"{'type': 'Point', 'coordinates': [78.95, 13.33333]}",1811-01-01T00:00:00.000,,100,,78.950000
+Valid,-29.033330,Putinga,Fell,L6,18905,"{'type': 'Point', 'coordinates': [-53.05, -29.03333]}",1937-01-01T00:00:00.000,,300000,,-53.050000
+Valid,32.083330,Qidong,Fell,L/LL5,18907,"{'type': 'Point', 'coordinates': [121.5, 32.08333]}",1982-01-01T00:00:00.000,,1275,,121.500000
+Valid,26.533330,Qingzhen,Fell,EH3,18908,"{'type': 'Point', 'coordinates': [106.46667, 26.53333]}",1976-01-01T00:00:00.000,,2600,,106.466670
+Valid,-30.116670,Queen's Mercy,Fell,H6,22357,"{'type': 'Point', 'coordinates': [28.7, -30.11667]}",1925-01-01T00:00:00.000,,7000,,28.700000
+Valid,17.766670,Quenggouk,Fell,H4,22358,"{'type': 'Point', 'coordinates': [95.18333, 17.76667]}",1857-01-01T00:00:00.000,,6045,,95.183330
+Valid,39.000000,Quesa,Fell,"Iron, IAB-ung",22360,"{'type': 'Point', 'coordinates': [-0.66667, 39]}",1898-01-01T00:00:00.000,,10750,,-0.666670
+Valid,44.616670,Quija,Fell,H,22361,"{'type': 'Point', 'coordinates': [126.13333, 44.61667]}",1990-01-01T00:00:00.000,,17450,,126.133330
+Valid,46.600000,Quincay,Fell,L6,22363,"{'type': 'Point', 'coordinates': [0.25, 46.6]}",1851-01-01T00:00:00.000,,65,,0.250000
+Valid,-26.666670,Raco,Fell,H5,22368,"{'type': 'Point', 'coordinates': [-65.45, -26.66667]}",1957-01-01T00:00:00.000,,5000,,-65.450000
+Valid,27.725280,Raghunathpura,Fell,"Iron, IIAB",22371,"{'type': 'Point', 'coordinates': [76.465, 27.72528]}",1986-01-01T00:00:00.000,,10200,,76.465000
+Valid,28.225000,Rahimyar Khan,Fell,L5,31302,"{'type': 'Point', 'coordinates': [70.2, 28.225]}",1983-01-01T00:00:00.000,,67225,,70.200000
+Valid,52.983330,Rakovka,Fell,L6,22376,"{'type': 'Point', 'coordinates': [37.03333, 52.98333]}",1878-01-01T00:00:00.000,,9000,,37.033330
+Valid,26.450000,Ramnagar,Fell,L6,22384,"{'type': 'Point', 'coordinates': [82.9, 26.45]}",1940-01-01T00:00:00.000,,3766,,82.900000
+Valid,24.166670,Rampurhat,Fell,LL,22385,"{'type': 'Point', 'coordinates': [87.76667, 24.16667]}",1916-01-01T00:00:00.000,,100,,87.766670
+Valid,51.883330,Ramsdorf,Fell,L6,22386,"{'type': 'Point', 'coordinates': [6.93333, 51.88333]}",1958-01-01T00:00:00.000,,4682,,6.933330
+Valid,23.983330,Ranchapur,Fell,H4,22387,"{'type': 'Point', 'coordinates': [87.08333, 23.98333]}",1917-01-01T00:00:00.000,,290.39999999999998,,87.083330
+Valid,19.866670,Rancho de la Presa,Fell,H5,22390,"{'type': 'Point', 'coordinates': [-100.81667, 19.86667]}",1899-01-01T00:00:00.000,,300,,-100.816670
+Valid,25.383330,Rangala,Fell,L6,22392,"{'type': 'Point', 'coordinates': [72.01667, 25.38333]}",1937-01-01T00:00:00.000,,3224.5,,72.016670
+Valid,38.200000,Raoyang,Fell,L6,22394,"{'type': 'Point', 'coordinates': [115.7, 38.2]}",1919-01-01T00:00:00.000,,4910,,115.700000
+Valid,26.666670,Ras Tanura,Fell,H6,22395,"{'type': 'Point', 'coordinates': [50.15, 26.66667]}",1961-01-01T00:00:00.000,,6.1,,50.150000
+Valid,43.500000,Rasgrad,Fell,Stone-uncl,22396,"{'type': 'Point', 'coordinates': [26.53333, 43.5]}",1740-01-01T00:00:00.000,,24700,,26.533330
+Valid,52.200000,Ratyn,Fell,Stone-uncl,22398,"{'type': 'Point', 'coordinates': [17.98333, 52.2]}",1880-01-01T00:00:00.000,,910,,17.983330
+Valid,38.137420,Red Canyon Lake,Fell,H5,53502,"{'type': 'Point', 'coordinates': [-119.75812, 38.13742]}",2007-01-01T00:00:00.000,8,18.41,1391,-119.758120
+Valid,42.475000,Reliegos,Fell,L5,22584,"{'type': 'Point', 'coordinates': [-5.33333, 42.475]}",1947-01-01T00:00:00.000,,17300,,-5.333330
+Valid,-6.733330,Rembang,Fell,"Iron, IVA",22585,"{'type': 'Point', 'coordinates': [111.36667, -6.73333]}",1919-01-01T00:00:00.000,,10000,,111.366670
+Valid,44.766670,Renazzo,Fell,CR2,22586,"{'type': 'Point', 'coordinates': [11.28333, 44.76667]}",1824-01-01T00:00:00.000,,1000,,11.283330
+Valid,-32.750000,Renca,Fell,L5,22587,"{'type': 'Point', 'coordinates': [-65.28333, -32.75]}",1925-01-01T00:00:00.000,,300,,-65.283330
+Valid,38.666670,Renqiu,Fell,L6,22589,"{'type': 'Point', 'coordinates': [116.13333, 38.66667]}",1916-01-01T00:00:00.000,,355,,116.133330
+Valid,48.600000,Repeev Khutor,Fell,"Iron, IIF",22590,"{'type': 'Point', 'coordinates': [45.66667, 48.6]}",1933-01-01T00:00:00.000,,7000,,45.666670
+Valid,51.333330,Revelstoke,Fell,CI1,22592,"{'type': 'Point', 'coordinates': [-118.95, 51.33333]}",1965-01-01T00:00:00.000,,1,,-118.950000
+Valid,28.200000,Rewari,Fell,L6,22593,"{'type': 'Point', 'coordinates': [76.66667, 28.2]}",1929-01-01T00:00:00.000,,3332,,76.666670
+Valid,35.033330,Rich Mountain,Fell,L6,22597,"{'type': 'Point', 'coordinates': [-83.03333, 35.03333]}",1903-01-01T00:00:00.000,37,668,2388,-83.033330
+Valid,-44.116670,Uzcudun,Fell,L,24140,"{'type': 'Point', 'coordinates': [-66.15, -44.11667]}",1948-01-01T00:00:00.000,,20000,,-66.150000
+Valid,46.883330,Richardton,Fell,H5,22599,"{'type': 'Point', 'coordinates': [-102.31667, 46.88333]}",1918-01-01T00:00:00.000,3,90000,569,-102.316670
+Valid,31.250000,Richland Springs,Fell,OC,22602,"{'type': 'Point', 'coordinates': [-99.03333, 31.25]}",1980-01-01T00:00:00.000,23,1900,2885,-99.033330
+Valid,37.466670,Richmond,Fell,LL5,22603,"{'type': 'Point', 'coordinates': [-77.5, 37.46667]}",1828-01-01T00:00:00.000,40,1800,2764,-77.500000
+Valid,-26.100000,Rio Negro,Fell,L4,22611,"{'type': 'Point', 'coordinates': [-49.8, -26.1]}",1934-01-01T00:00:00.000,,1310,,-49.800000
+Valid,45.483330,Rivolta de Bassi,Fell,Stone-uncl,22614,"{'type': 'Point', 'coordinates': [9.51667, 45.48333]}",1491-01-01T00:00:00.000,,103.3,,9.516670
+Valid,41.083330,Rochester,Fell,H6,22637,"{'type': 'Point', 'coordinates': [-86.28333, 41.08333]}",1876-01-01T00:00:00.000,35,340,150,-86.283330
+Valid,-23.383330,Rockhampton,Fell,Stone-uncl,22640,"{'type': 'Point', 'coordinates': [150.51667, -23.38333]}",1895-01-01T00:00:00.000,,1641,,150.516670
+Valid,42.300000,Roda,Fell,Diogenite,22641,"{'type': 'Point', 'coordinates': [0.55, 42.3]}",1871-01-01T00:00:00.000,,400,,0.550000
+Valid,50.350000,Rodach,Fell,Stone-uncl,22642,"{'type': 'Point', 'coordinates': [10.8, 50.35]}",1775-01-01T00:00:00.000,,2900,,10.800000
+Valid,44.516670,Rose City,Fell,H5,22766,"{'type': 'Point', 'coordinates': [-83.95, 44.51667]}",1921-01-01T00:00:00.000,50,10600,361,-83.950000
+Valid,52.766670,Rowton,Fell,"Iron, IIIAB",22773,"{'type': 'Point', 'coordinates': [-2.51667, 52.76667]}",1876-01-01T00:00:00.000,,3500,,-2.516670
+Valid,-1.450000,Ruhobobo,Fell,L6,22780,"{'type': 'Point', 'coordinates': [29.83333, -1.45]}",1976-01-01T00:00:00.000,,465.5,,29.833330
+Valid,0.266670,Rumuruti,Fell,R3.8-6,22782,"{'type': 'Point', 'coordinates': [36.53333, 0.26667]}",1934-01-01T00:00:00.000,,67,,36.533330
+Valid,-10.266670,Rupota,Fell,L4-6,22783,"{'type': 'Point', 'coordinates': [38.76667, -10.26667]}",1949-01-01T00:00:00.000,,6000,,38.766670
+Valid,51.133330,Ryechki,Fell,L5,22791,"{'type': 'Point', 'coordinates': [34.5, 51.13333]}",1914-01-01T00:00:00.000,,13000,,34.500000
+Valid,27.433330,Sabetmahet,Fell,H5,22792,"{'type': 'Point', 'coordinates': [82.08333, 27.43333]}",1855-01-01T00:00:00.000,,1250,,82.083330
+Valid,23.083330,Sabrum,Fell,LL6,22793,"{'type': 'Point', 'coordinates': [91.66667, 23.08333]}",1999-01-01T00:00:00.000,,478,,91.666670
+Valid,51.533330,Sagan,Fell,Stone-uncl,22796,"{'type': 'Point', 'coordinates': [14.88333, 51.53333]}",1636-01-01T00:00:00.000,,,,14.883330
+Valid,43.733330,Saint-Sauveur,Fell,EH5,23101,"{'type': 'Point', 'coordinates': [1.38333, 43.73333]}",1914-01-01T00:00:00.000,,14000,,1.383330
+Valid,45.300000,Saint-Séverin,Fell,LL6,23102,"{'type': 'Point', 'coordinates': [0.23333, 45.3]}",1966-01-01T00:00:00.000,,271000,,0.233330
+Valid,35.666670,Sakauchi,Fell,Iron,23103,"{'type': 'Point', 'coordinates': [136.3, 35.66667]}",1913-01-01T00:00:00.000,,4180,,136.300000
+Valid,44.979170,Salem,Fell,L6,23107,"{'type': 'Point', 'coordinates': [-122.96944, 44.97917]}",1981-01-01T00:00:00.000,12,61.4,2409,-122.969440
+Valid,46.050000,Salles,Fell,L5,23111,"{'type': 'Point', 'coordinates': [4.63333, 46.05]}",1798-01-01T00:00:00.000,,9000,,4.633330
+Valid,52.750000,Salzwedel,Fell,LL5,23114,"{'type': 'Point', 'coordinates': [11.05, 52.75]}",1985-01-01T00:00:00.000,,43,,11.050000
+Valid,25.666670,Samelia,Fell,"Iron, IIIAB",23115,"{'type': 'Point', 'coordinates': [74.86667, 25.66667]}",1921-01-01T00:00:00.000,,2462,,74.866670
+Valid,33.484720,San Juan Capistrano,Fell,H6,23128,"{'type': 'Point', 'coordinates': [-117.6625, 33.48472]}",1973-01-01T00:00:00.000,8,56,1174,-117.662500
+Valid,43.666670,San Michele,Fell,L6,31315,"{'type': 'Point', 'coordinates': [13, 43.66667]}",2002-01-01T00:00:00.000,,237,,13.000000
+Valid,-31.016670,San Pedro de Quiles,Fell,L6,23130,"{'type': 'Point', 'coordinates': [-71.4, -31.01667]}",1956-01-01T00:00:00.000,,282,,-71.400000
+Valid,19.766670,San Pedro Jacuaro,Fell,LL6,34063,"{'type': 'Point', 'coordinates': [-100.65, 19.76667]}",1968-01-01T00:00:00.000,,460,,-100.650000
+Valid,-29.200000,Santa Barbara,Fell,L4,23161,"{'type': 'Point', 'coordinates': [-51.86667, -29.2]}",1873-01-01T00:00:00.000,,400,,-51.866670
+Valid,24.166670,Santa Cruz,Fell,CM2,23164,"{'type': 'Point', 'coordinates': [-99.33333, 24.16667]}",1939-01-01T00:00:00.000,,60,,-99.333330
+Valid,-33.900000,Santa Isabel,Fell,L6,23165,"{'type': 'Point', 'coordinates': [-61.7, -33.9]}",1924-01-01T00:00:00.000,,5500,,-61.700000
+Valid,-31.535556,Santa Lucia (2008),Fell,L6,50909,"{'type': 'Point', 'coordinates': [-68.489444, -31.535556]}",2008-01-01T00:00:00.000,,4000,,-68.489444
+Valid,-20.810000,São Jose do Rio Preto,Fell,H4,23171,"{'type': 'Point', 'coordinates': [-49.38056, -20.81]}",1962-01-01T00:00:00.000,,927,,-49.380560
+Valid,52.550000,Saratov,Fell,L4,23176,"{'type': 'Point', 'coordinates': [46.55, 52.55]}",1918-01-01T00:00:00.000,,200000,,46.550000
+Valid,34.716670,Sasagase,Fell,H,23187,"{'type': 'Point', 'coordinates': [137.78333, 34.71667]}",1688-01-01T00:00:00.000,,695,,137.783330
+Valid,43.150000,Sauguis,Fell,L6,23188,"{'type': 'Point', 'coordinates': [-0.85, 43.15]}",1868-01-01T00:00:00.000,,4000,,-0.850000
+Valid,47.216670,Savtschenskoje,Fell,LL4,23190,"{'type': 'Point', 'coordinates': [29.86667, 47.21667]}",1894-01-01T00:00:00.000,,2500,,29.866670
+Valid,35.866670,Sayama,Fell,CM2,23192,"{'type': 'Point', 'coordinates': [139.4, 35.86667]}",1986-01-01T00:00:00.000,,430,,139.400000
+Valid,49.233330,Sazovice,Fell,L5,23455,"{'type': 'Point', 'coordinates': [17.56667, 49.23333]}",1934-01-01T00:00:00.000,,412,,17.566670
+Valid,53.350000,Schellin,Fell,L,23457,"{'type': 'Point', 'coordinates': [15.05, 53.35]}",1715-01-01T00:00:00.000,,7000,,15.050000
+Valid,42.860830,Schenectady,Fell,H5,23458,"{'type': 'Point', 'coordinates': [-73.95028, 42.86083]}",1968-01-01T00:00:00.000,47,283.3,2142,-73.950280
+Valid,48.116670,Schönenberg,Fell,L6,23460,"{'type': 'Point', 'coordinates': [10.46667, 48.11667]}",1846-01-01T00:00:00.000,,8000,,10.466670
+Valid,44.366670,Searsmont,Fell,H5,23472,"{'type': 'Point', 'coordinates': [-69.2, 44.36667]}",1871-01-01T00:00:00.000,49,5400,1727,-69.200000
+Valid,38.300000,Sediköy,Fell,L6,23473,"{'type': 'Point', 'coordinates': [27.13333, 38.3]}",1917-01-01T00:00:00.000,,240,,27.133330
+Valid,26.750000,Segowlie,Fell,LL6,23476,"{'type': 'Point', 'coordinates': [84.78333, 26.75]}",1853-01-01T00:00:00.000,,6930,,84.783330
+Valid,-7.233330,Selakopi,Fell,H5,23481,"{'type': 'Point', 'coordinates': [107.33333, -7.23333]}",1939-01-01T00:00:00.000,,1590,,107.333330
+Valid,22.833330,Seldebourak,Fell,H5,23483,"{'type': 'Point', 'coordinates': [4.98333, 22.83333]}",1947-01-01T00:00:00.000,,150,,4.983330
+Valid,22.250000,Semarkona,Fell,LL3.00,23487,"{'type': 'Point', 'coordinates': [79, 22.25]}",1940-01-01T00:00:00.000,,691,,79.000000
+Valid,41.716670,Sena,Fell,H4,23495,"{'type': 'Point', 'coordinates': [-0.05, 41.71667]}",1773-01-01T00:00:00.000,,4000,,-0.050000
+Valid,39.438330,Senboku,Fell,H6,23496,"{'type': 'Point', 'coordinates': [140.51167, 39.43833]}",1993-01-01T00:00:00.000,,866,,140.511670
+Valid,21.683890,Seoni,Fell,H6,23500,"{'type': 'Point', 'coordinates': [79.50083, 21.68389]}",1966-01-01T00:00:00.000,,20000,,79.500830
+Valid,41.050000,Seres,Fell,H4,23501,"{'type': 'Point', 'coordinates': [23.56667, 41.05]}",1818-01-01T00:00:00.000,,8500,,23.566670
+Valid,-8.383330,Serra de Magé,Fell,Eucrite-cm,23502,"{'type': 'Point', 'coordinates': [-36.76667, -8.38333]}",1923-01-01T00:00:00.000,,1800,,-36.766670
+Valid,-19.466670,Sete Lagoas,Fell,H4,23504,"{'type': 'Point', 'coordinates': [-44.21667, -19.46667]}",1908-01-01T00:00:00.000,,350,,-44.216670
+Valid,37.416670,Sevilla,Fell,LL4,23508,"{'type': 'Point', 'coordinates': [-6, 37.41667]}",1862-01-01T00:00:00.000,,180,,-6.000000
+Valid,50.616670,Sevrukovo,Fell,L5,23509,"{'type': 'Point', 'coordinates': [36.6, 50.61667]}",1874-01-01T00:00:00.000,,101000,,36.600000
+Valid,34.750000,Sfax,Fell,L6,23512,"{'type': 'Point', 'coordinates': [10.71667, 34.75]}",1989-01-01T00:00:00.000,,7000,,10.716670
+Valid,23.100000,Shalka,Fell,Diogenite,23521,"{'type': 'Point', 'coordinates': [87.3, 23.1]}",1850-01-01T00:00:00.000,,4000,,87.300000
+Valid,37.833330,Sharps,Fell,H3.4,23525,"{'type': 'Point', 'coordinates': [-76.7, 37.83333]}",1921-01-01T00:00:00.000,40,1265,921,-76.700000
+Valid,44.050000,Shelburne,Fell,L5,23529,"{'type': 'Point', 'coordinates': [-80.16667, 44.05]}",1904-01-01T00:00:00.000,,18600,,-80.166670
+Valid,24.550000,Shergotty,Fell,Martian (shergottite),23530,"{'type': 'Point', 'coordinates': [84.83333, 24.55]}",1865-01-01T00:00:00.000,,5000,,84.833330
+Valid,33.650000,Sheyang,Fell,L6,23531,"{'type': 'Point', 'coordinates': [120.06667, 33.65]}",1976-01-01T00:00:00.000,,605,,120.066670
+Valid,25.850000,Shikarpur,Fell,L6,23534,"{'type': 'Point', 'coordinates': [87.5775, 25.85]}",1921-01-01T00:00:00.000,,3679.7,,87.577500
+Valid,43.500000,Shuangyang,Fell,H5,23582,"{'type': 'Point', 'coordinates': [125.66667, 43.5]}",1971-01-01T00:00:00.000,,3900,,125.666670
+Valid,33.716670,Shupiyan,Fell,H6,23583,"{'type': 'Point', 'coordinates': [74.83333, 33.71667]}",1912-01-01T00:00:00.000,,5000,,74.833330
+Valid,24.333330,Shytal,Fell,L6,23584,"{'type': 'Point', 'coordinates': [90.16667, 24.33333]}",1863-01-01T00:00:00.000,,3200,,90.166670
+Valid,43.116670,Siena,Fell,LL5,23586,"{'type': 'Point', 'coordinates': [11.6, 43.11667]}",1794-01-01T00:00:00.000,,3700,,11.600000
+Valid,46.160000,Sikhote-Alin,Fell,"Iron, IIAB",23593,"{'type': 'Point', 'coordinates': [134.65333, 46.16]}",1947-01-01T00:00:00.000,,23000000,,134.653330
+Valid,20.933330,Silao,Fell,H5,23594,"{'type': 'Point', 'coordinates': [-101.38333, 20.93333]}",1995-01-01T00:00:00.000,,1710,,-101.383330
+Valid,44.116670,Silistra,Fell,Achondrite-ung,55584,"{'type': 'Point', 'coordinates': [27.26667, 44.11667]}",1917-01-01T00:00:00.000,,0.15,,27.266670
+Valid,49.983330,Simmern,Fell,H5,23603,"{'type': 'Point', 'coordinates': [7.53333, 49.98333]}",1920-01-01T00:00:00.000,,1222,,7.533330
+Valid,30.900000,Sinai,Fell,L6,23606,"{'type': 'Point', 'coordinates': [32.48333, 30.9]}",1916-01-01T00:00:00.000,,1455,,32.483330
+Valid,26.216670,Sindhri,Fell,H5,23611,"{'type': 'Point', 'coordinates': [69.55, 26.21667]}",1901-01-01T00:00:00.000,,8400,,69.550000
+Valid,39.300000,Sinnai,Fell,H6,23613,"{'type': 'Point', 'coordinates': [9.2, 39.3]}",1956-01-01T00:00:00.000,,2000,,9.200000
+Valid,42.583330,Sioux County,Fell,Eucrite-mmict,23614,"{'type': 'Point', 'coordinates': [-103.66667, 42.58333]}",1933-01-01T00:00:00.000,19,4100,2351,-103.666670
+Valid,20.916670,Sitathali,Fell,H5,23616,"{'type': 'Point', 'coordinates': [82.58333, 20.91667]}",1875-01-01T00:00:00.000,,1600,,82.583330
+Valid,39.824670,Sivas,Fell,H6,23617,"{'type': 'Point', 'coordinates': [36.13583, 39.82467]}",1989-01-01T00:00:00.000,,40000,,36.135830
+Valid,32.433330,Sixiangkou,Fell,L5,23619,"{'type': 'Point', 'coordinates': [119.86667, 32.43333]}",1989-01-01T00:00:00.000,,630,,119.866670
+Valid,59.733330,Ski,Fell,L6,23621,"{'type': 'Point', 'coordinates': [10.86667, 59.73333]}",1848-01-01T00:00:00.000,,850,,10.866670
+Valid,45.683330,Slavetic,Fell,H5,23626,"{'type': 'Point', 'coordinates': [15.6, 45.68333]}",1868-01-01T00:00:00.000,,1708,,15.600000
+Valid,55.000000,Slobodka,Fell,L4,23645,"{'type': 'Point', 'coordinates': [35, 55]}",1818-01-01T00:00:00.000,,2750,,35.000000
+Valid,27.133330,Soheria,Fell,OC,23660,"{'type': 'Point', 'coordinates': [84.06667, 27.13333]}",1960-01-01T00:00:00.000,,72.900000000000006,,84.066670
+Valid,43.666670,Soko-Banja,Fell,LL4,23661,"{'type': 'Point', 'coordinates': [21.86667, 43.66667]}",1877-01-01T00:00:00.000,,80000,,21.866670
+Valid,47.366670,Sologne,Fell,H5,23663,"{'type': 'Point', 'coordinates': [1.73333, 47.36667]}",1860-01-01T00:00:00.000,,54,,1.733330
+Valid,54.008830,Sołtmany,Fell,L6,53829,"{'type': 'Point', 'coordinates': [22.005, 54.00883]}",2011-01-01T00:00:00.000,,1066,,22.005000
+Valid,35.166670,Sone,Fell,H5,23667,"{'type': 'Point', 'coordinates': [135.33333, 35.16667]}",1866-01-01T00:00:00.000,,17100,,135.333330
+Valid,45.250000,Songyuan,Fell,L6,23668,"{'type': 'Point', 'coordinates': [125, 45.25]}",1993-01-01T00:00:00.000,,36900,,125.000000
+Valid,44.416670,Sopot,Fell,OC,23670,"{'type': 'Point', 'coordinates': [23.5, 44.41667]}",1927-01-01T00:00:00.000,,958,,23.500000
+Valid,1.700000,Soroti,Fell,"Iron, ungrouped",23671,"{'type': 'Point', 'coordinates': [33.63333, 1.7]}",1945-01-01T00:00:00.000,,2050,,33.633330
+Valid,44.750000,St. Caprais-de-Quinsac,Fell,L6,23081,"{'type': 'Point', 'coordinates': [0.05, 44.75]}",1883-01-01T00:00:00.000,,360,,0.050000
+Valid,46.950000,St. Christophe-la-Chartreuse,Fell,L6,23082,"{'type': 'Point', 'coordinates': [-1.5, 46.95]}",1841-01-01T00:00:00.000,,5500,,-1.500000
+Valid,51.050000,St. Denis Westrem,Fell,L6,23083,"{'type': 'Point', 'coordinates': [3.75, 51.05]}",1855-01-01T00:00:00.000,,700,,3.750000
+Valid,48.016670,St. Germain-du-Pinel,Fell,H6,23087,"{'type': 'Point', 'coordinates': [-1.15, 48.01667]}",1890-01-01T00:00:00.000,,4000,,-1.150000
+Valid,38.700000,St. Louis,Fell,H4,23089,"{'type': 'Point', 'coordinates': [-90.23333, 38.7]}",1950-01-01T00:00:00.000,18,1000,2223,-90.233330
+Valid,-32.016670,St. Mark's,Fell,EH5,23090,"{'type': 'Point', 'coordinates': [27.41667, -32.01667]}",1903-01-01T00:00:00.000,,13780,,27.416670
+Valid,38.166670,St. Mary's County,Fell,LL3.3,23091,"{'type': 'Point', 'coordinates': [-76.38333, 38.16667]}",1919-01-01T00:00:00.000,45,24.3,424,-76.383330
+Valid,48.450000,St. Mesmin,Fell,LL6,23092,"{'type': 'Point', 'coordinates': [3.93333, 48.45]}",1866-01-01T00:00:00.000,,8300,,3.933330
+Valid,61.650000,St. Michel,Fell,L6,23093,"{'type': 'Point', 'coordinates': [27.2, 61.65]}",1910-01-01T00:00:00.000,,17000,,27.200000
+Valid,43.433330,St.-Chinian,Fell,L6,23097,"{'type': 'Point', 'coordinates': [2.95, 43.43333]}",1959-01-01T00:00:00.000,,134.30000000000001,,2.950000
+Valid,59.933330,Ställdalen,Fell,H5,23712,"{'type': 'Point', 'coordinates': [14.95, 59.93333]}",1876-01-01T00:00:00.000,,34000,,14.950000
+Valid,49.283330,Stannern,Fell,Eucrite-mmict,23713,"{'type': 'Point', 'coordinates': [15.56667, 49.28333]}",1808-01-01T00:00:00.000,,52000,,15.566670
+Valid,45.050000,Stavropol,Fell,L6,23717,"{'type': 'Point', 'coordinates': [41.98333, 45.05]}",1857-01-01T00:00:00.000,,1500,,41.983330
+Valid,50.766670,Ste. Marguerite,Fell,H4,23099,"{'type': 'Point', 'coordinates': [3, 50.76667]}",1962-01-01T00:00:00.000,,4960,,3.000000
+Valid,53.666670,Sterlitamak,Fell,"Iron, IIIAB",23724,"{'type': 'Point', 'coordinates': [55.98333, 53.66667]}",1990-01-01T00:00:00.000,,325000,,55.983330
+Valid,52.533330,Stolzenau,Fell,Stone-uncl,23726,"{'type': 'Point', 'coordinates': [9.05, 52.53333]}",1647-01-01T00:00:00.000,,,,9.050000
+Valid,41.200000,Stratford,Fell,L6,23728,"{'type': 'Point', 'coordinates': [-73.13333, 41.2]}",1974-01-01T00:00:00.000,24,50,1040,-73.133330
+Valid,56.583330,Strathmore,Fell,L6,23729,"{'type': 'Point', 'coordinates': [-3.25, 56.58333]}",1917-01-01T00:00:00.000,,13400,,-3.250000
+Valid,50.383330,Stretchleigh,Fell,Stone-uncl,23732,"{'type': 'Point', 'coordinates': [-3.95, 50.38333]}",1623-01-01T00:00:00.000,,10400,,-3.950000
+Valid,45.968610,St-Robert,Fell,H5,23733,"{'type': 'Point', 'coordinates': [-72.97806, 45.96861]}",1994-01-01T00:00:00.000,,25400,,-72.978060
+Valid,36.483330,Success,Fell,L6,23736,"{'type': 'Point', 'coordinates': [-90.66667, 36.48333]}",1924-01-01T00:00:00.000,15,3500,955,-90.666670
+Valid,50.538060,Suchy Dul,Fell,L6,23737,"{'type': 'Point', 'coordinates': [16.26333, 50.53806]}",1969-01-01T00:00:00.000,,815.3,,16.263330
+Valid,31.616670,Suizhou,Fell,L6,23738,"{'type': 'Point', 'coordinates': [113.46667, 31.61667]}",1986-01-01T00:00:00.000,,260000,,113.466670
+Valid,12.666670,Sulagiri,Fell,LL6,48951,"{'type': 'Point', 'coordinates': [78.03333, 12.66667]}",2008-01-01T00:00:00.000,,110000,,78.033330
+Valid,25.933330,Sultanpur,Fell,L/LL6,23741,"{'type': 'Point', 'coordinates': [84.28333, 25.93333]}",1916-01-01T00:00:00.000,,1710.5,,84.283330
+Valid,44.866670,Sungach,Fell,H5,23745,"{'type': 'Point', 'coordinates': [133.16667, 44.86667]}",1935-01-01T00:00:00.000,,637,,133.166670
+Valid,26.716670,Supuhee,Fell,H6,23760,"{'type': 'Point', 'coordinates': [84.21667, 26.71667]}",1865-01-01T00:00:00.000,,7235,,84.216670
+Valid,38.803890,Sutter's Mill,Fell,C,55529,"{'type': 'Point', 'coordinates': [-120.90806, 38.80389]}",2012-01-01T00:00:00.000,8,992.5,1187,-120.908060
+Valid,33.188360,Sylacauga,Fell,H4,23773,"{'type': 'Point', 'coordinates': [-86.2945, 33.18836]}",1954-01-01T00:00:00.000,29,5560,1637,-86.294500
+Valid,49.400000,Tabor,Fell,H5,23776,"{'type': 'Point', 'coordinates': [14.65, 49.4]}",1753-01-01T00:00:00.000,,7540,,14.650000
+Valid,36.183330,Tadjera,Fell,L5,23778,"{'type': 'Point', 'coordinates': [5.41667, 36.18333]}",1867-01-01T00:00:00.000,,9000,,5.416670
+Valid,59.704440,Tagish Lake,Fell,C2-ung,23782,"{'type': 'Point', 'coordinates': [-134.20139, 59.70444]}",2000-01-01T00:00:00.000,,10000,,-134.201390
+Valid,34.720000,Tahara,Fell,H4/5,23784,"{'type': 'Point', 'coordinates': [137.305, 34.72]}",1991-01-01T00:00:00.000,,1000,,137.305000
+Valid,35.383330,Takenouchi,Fell,H5,23789,"{'type': 'Point', 'coordinates': [134.9, 35.38333]}",1880-01-01T00:00:00.000,,720,,134.900000
+Valid,,Talampaya,Fell,Eucrite-cm,23791,,1995-01-01T00:00:00.000,,1421,,
+Valid,-7.750000,Tambakwatu,Fell,L6,23795,"{'type': 'Point', 'coordinates': [112.76667, -7.75]}",1975-01-01T00:00:00.000,,10500,,112.766670
+Valid,31.163330,Tamdakht,Fell,H5,48691,"{'type': 'Point', 'coordinates': [-7.015, 31.16333]}",2008-01-01T00:00:00.000,,100000,,-7.015000
+Valid,35.433330,Tané,Fell,L5,23801,"{'type': 'Point', 'coordinates': [136.23333, 35.43333]}",1918-01-01T00:00:00.000,,905,,136.233330
+Valid,45.400000,Taonan,Fell,L5,23873,"{'type': 'Point', 'coordinates': [122.9, 45.4]}",1965-01-01T00:00:00.000,,3850,,122.900000
+Valid,32.950000,Tatahouine,Fell,Diogenite,23884,"{'type': 'Point', 'coordinates': [10.41667, 32.95]}",1931-01-01T00:00:00.000,,12000,,10.416670
+Valid,19.383330,Tathlith,Fell,L6,23885,"{'type': 'Point', 'coordinates': [43.73333, 19.38333]}",1967-01-01T00:00:00.000,,2500,,43.733330
+Valid,35.133330,Tauk,Fell,L6,23887,"{'type': 'Point', 'coordinates': [44.45, 35.13333]}",1929-01-01T00:00:00.000,,6000,,44.450000
+Valid,46.716670,Tauti,Fell,L6,23888,"{'type': 'Point', 'coordinates': [23.5, 46.71667]}",1937-01-01T00:00:00.000,,21000,,23.500000
+Valid,-25.733330,Tenham,Fell,L6,23897,"{'type': 'Point', 'coordinates': [142.95, -25.73333]}",1879-01-01T00:00:00.000,,160000,,142.950000
+Valid,58.033330,Tennasilm,Fell,L4,23898,"{'type': 'Point', 'coordinates': [26.95, 58.03333]}",1872-01-01T00:00:00.000,,28500,,26.950000
+Valid,33.400000,Thal,Fell,H6,23908,"{'type': 'Point', 'coordinates': [70.6, 33.4]}",1950-01-01T00:00:00.000,,342,,70.600000
+Valid,-1.002780,Thika,Fell,L6,54493,"{'type': 'Point', 'coordinates': [37.15028, -1.00278]}",2011-01-01T00:00:00.000,,14200,,37.150280
+Valid,-29.333330,Thuathe,Fell,H4/5,23976,"{'type': 'Point', 'coordinates': [27.58333, -29.33333]}",2002-01-01T00:00:00.000,,45300,,27.583330
+Valid,32.946670,Tianzhang,Fell,H5,23984,"{'type': 'Point', 'coordinates': [118.99, 32.94667]}",1986-01-01T00:00:00.000,,2232,,118.990000
+Valid,49.600000,Tieschitz,Fell,H/L3.6,23989,"{'type': 'Point', 'coordinates': [17.11667, 49.6]}",1878-01-01T00:00:00.000,,28000,,17.116670
+Valid,38.200000,Tilden,Fell,L6,23998,"{'type': 'Point', 'coordinates': [-89.68333, 38.2]}",1927-01-01T00:00:00.000,34,74800,1762,-89.683330
+Valid,14.250000,Tillaberi,Fell,L6,23999,"{'type': 'Point', 'coordinates': [1.53333, 14.25]}",1970-01-01T00:00:00.000,,3000,,1.533330
+Valid,54.500000,Timochin,Fell,H5,24004,"{'type': 'Point', 'coordinates': [35.2, 54.5]}",1807-01-01T00:00:00.000,,65500,,35.200000
+Valid,13.633330,Tirupati,Fell,H6,24009,"{'type': 'Point', 'coordinates': [79.41667, 13.63333]}",1934-01-01T00:00:00.000,,230,,79.416670
+Valid,29.481950,Tissint,Fell,Martian (shergottite),54823,"{'type': 'Point', 'coordinates': [-7.61123, 29.48195]}",2011-01-01T00:00:00.000,,7000,,-7.611230
+Valid,-7.083330,Tjabe,Fell,H6,24011,"{'type': 'Point', 'coordinates': [111.53333, -7.08333]}",1869-01-01T00:00:00.000,,20000,,111.533330
+Valid,-6.666670,Tjerebon,Fell,L5,24012,"{'type': 'Point', 'coordinates': [106.58333, -6.66667]}",1922-01-01T00:00:00.000,,16500,,106.583330
+Valid,47.850000,Tomakovka,Fell,LL6,24019,"{'type': 'Point', 'coordinates': [34.76667, 47.85]}",1905-01-01T00:00:00.000,,600,,34.766670
